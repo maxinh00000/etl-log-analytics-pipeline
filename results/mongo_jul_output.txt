@@ -1,0 +1,47 @@
+(base) PS E:\Acads\Sem 6\NoSQL\Project\etl-log-analytics-pipeline> python pipelines/mongodb/load_data.py
+Inserted records: 1891700
+Malformed records: 15
+(base) PS E:\Acads\Sem 6\NoSQL\Project\etl-log-analytics-pipeline> python pipelines/mongodb/query1.py   
+Runtime: 1.0659587383270264
+{'_id': {'log_date': '20/Jul/1995', 'status': 400}, 'request_count': 3, 'total_bytes': 0}
+{'_id': {'log_date': '08/Jul/1995', 'status': 302}, 'request_count': 702, 'total_bytes': 47998}
+{'_id': {'log_date': '24/Jul/1995', 'status': 501}, 'request_count': 5, 'total_bytes': 0}
+{'_id': {'log_date': '13/Jul/1995', 'status': 302}, 'request_count': 4436, 'total_bytes': 366995}
+{'_id': {'log_date': '22/Jul/1995', 'status': 302}, 'request_count': 721, 'total_bytes': 57718}
+{'_id': {'log_date': '15/Jul/1995', 'status': 404}, 'request_count': 254, 'total_bytes': 0}
+{'_id': {'log_date': '07/Jul/1995', 'status': 302}, 'request_count': 2415, 'total_bytes': 182335}
+{'_id': {'log_date': '03/Jul/1995', 'status': 500}, 'request_count': 53, 'total_bytes': 0}
+{'_id': {'log_date': '04/Jul/1995', 'status': 403}, 'request_count': 4, 'total_bytes': 0}
+{'_id': {'log_date': '16/Jul/1995', 'status': 404}, 'request_count': 257, 'total_bytes': 0}
+(base) PS E:\Acads\Sem 6\NoSQL\Project\etl-log-analytics-pipeline> python pipelines/mongodb/query2.py   
+{'_id': '/images/NASA-logosmall.gif', 'request_count': 111087, 'total_bytes': 70380012, 'resource_path': '/images/NASA-logosmall.gif', 'distinct_host_count': 49584}
+{'_id': '/images/KSC-logosmall.gif', 'request_count': 89530, 'total_bytes': 92473220, 'resource_path': '/images/KSC-logosmall.gif', 'distinct_host_count': 49050}
+{'_id': '/images/MOSAIC-logosmall.gif', 'request_count': 60300, 'total_bytes': 19338825, 'resource_path': '/images/MOSAIC-logosmall.gif', 'distinct_host_count': 29730}
+{'_id': '/images/USA-logosmall.gif', 'request_count': 59845, 'total_bytes': 12369474, 'resource_path': '/images/USA-logosmall.gif', 'distinct_host_count': 29491}
+{'_id': '/images/WORLD-logosmall.gif', 'request_count': 59325, 'total_bytes': 35126514, 'resource_path': '/images/WORLD-logosmall.gif', 'distinct_host_count': 29245}
+{'_id': '/images/ksclogo-medium.gif', 'request_count': 58616, 'total_bytes': 308094052, 'resource_path': '/images/ksclogo-medium.gif', 'distinct_host_count': 27812}
+{'_id': '/images/launch-logo.gif', 'request_count': 40841, 'total_bytes': 61837587, 'resource_path': '/images/launch-logo.gif', 'distinct_host_count': 23242}
+{'_id': '/shuttle/countdown/', 'request_count': 40251, 'total_bytes': 151263014, 'resource_path': '/shuttle/countdown/', 'distinct_host_count': 24041}
+{'_id': '/ksc.html', 'request_count': 40068, 'total_bytes': 270384442, 'resource_path': '/ksc.html', 'distinct_host_count': 16388}
+{'_id': '/images/ksclogosmall.gif', 'request_count': 33555, 'total_bytes': 110445840, 'resource_path': '/images/ksclogosmall.gif', 'distinct_host_count': 21883}
+{'_id': '/', 'request_count': 32675, 'total_bytes': 210781474, 'resource_path': '/', 'distinct_host_count': 17709}
+{'_id': '/history/apollo/images/apollo-logo1.gif', 'request_count': 31052, 'total_bytes': 32659839, 'resource_path': '/history/apollo/images/apollo-logo1.gif', 'distinct_host_count': 17075}
+{'_id': '/shuttle/missions/missions.html', 'request_count': 24833, 'total_bytes': 200478436, 'resource_path': '/shuttle/missions/missions.html', 'distinct_host_count': 14856}
+{'_id': '/htbin/cdt_main.pl', 'request_count': 22601, 'total_bytes': 78952553, 'resource_path': '/htbin/cdt_main.pl', 'distinct_host_count': 6939}
+{'_id': '/shuttle/countdown/count.gif', 'request_count': 22189, 'total_bytes': 828136440, 'resource_path': '/shuttle/countdown/count.gif', 'distinct_host_count': 15306}
+{'_id': '/shuttle/countdown/liftoff.html', 'request_count': 21981, 'total_bytes': 73647400, 'resource_path': '/shuttle/countdown/liftoff.html', 'distinct_host_count': 10858}
+{'_id': '/shuttle/countdown/count70.gif', 'request_count': 20921, 'total_bytes': 899186345, 'resource_path': '/shuttle/countdown/count70.gif', 'distinct_host_count': 11628}
+{'_id': '/images/launchmedium.gif', 'request_count': 20788, 'total_bytes': 228608811, 'resource_path': '/images/launchmedium.gif', 'distinct_host_count': 13261}
+{'_id': '/shuttle/missions/sts-71/sts-71-patch-small.gif', 'request_count': 19832, 'total_bytes': 218587236, 'resource_path': '/shuttle/missions/sts-71/sts-71-patch-small.gif', 'distinct_host_count': 12529}
+{'_id': '/shuttle/missions/sts-70/sts-70-patch-small.gif', 'request_count': 18135, 'total_bytes': 88343458, 'resource_path': '/shuttle/missions/sts-70/sts-70-patch-small.gif', 'distinct_host_count': 10411}
+(base) PS E:\Acads\Sem 6\NoSQL\Project\etl-log-analytics-pipeline> python pipelines/mongodb/query3.py   
+{'_id': {'log_date': '22/Jul/1995', 'log_hour': '20'}, 'total_requests': 1404, 'error_requests': 7, 'log_date': '22/Jul/1995', 'log_hour': '20', 'error_rate': 0.004985754985754986, 'distinct_error_hosts': 5}
+{'_id': {'log_date': '05/Jul/1995', 'log_hour': '17'}, 'total_requests': 4726, 'error_requests': 17, 'log_date': '05/Jul/1995', 'log_hour': '17', 'error_rate': 0.0035971223021582736, 'distinct_error_hosts': 8}
+{'_id': {'log_date': '16/Jul/1995', 'log_hour': '13'}, 'total_requests': 2638, 'error_requests': 24, 'log_date': '16/Jul/1995', 'log_hour': '13', 'error_rate': 0.009097801364670205, 'distinct_error_hosts': 13}
+{'_id': {'log_date': '14/Jul/1995', 'log_hour': '07'}, 'total_requests': 2991, 'error_requests': 9, 'log_date': '14/Jul/1995', 'log_hour': '07', 'error_rate': 0.003009027081243731, 'distinct_error_hosts': 6}
+{'_id': {'log_date': '16/Jul/1995', 'log_hour': '00'}, 'total_requests': 2069, 'error_requests': 3, 'log_date': '16/Jul/1995', 'log_hour': '00', 'error_rate': 0.0014499758337361043, 'distinct_error_hosts': 2}
+{'_id': {'log_date': '04/Jul/1995', 'log_hour': '07'}, 'total_requests': 2172, 'error_requests': 3, 'log_date': '04/Jul/1995', 'log_hour': '07', 'error_rate': 0.0013812154696132596, 'distinct_error_hosts': 3}
+{'_id': {'log_date': '03/Jul/1995', 'log_hour': '15'}, 'total_requests': 5610, 'error_requests': 27, 'log_date': '03/Jul/1995', 'log_hour': '15', 'error_rate': 0.004812834224598931, 'distinct_error_hosts': 18}
+{'_id': {'log_date': '01/Jul/1995', 'log_hour': '01'}, 'total_requests': 3004, 'error_requests': 10, 'log_date': '01/Jul/1995', 'log_hour': '01', 'error_rate': 0.003328894806924101, 'distinct_error_hosts': 7}
+{'_id': {'log_date': '04/Jul/1995', 'log_hour': '06'}, 'total_requests': 1709, 'error_requests': 5, 'log_date': '04/Jul/1995', 'log_hour': '06', 'error_rate': 0.002925687536571094, 'distinct_error_hosts': 5}
+{'_id': {'log_date': '14/Jul/1995', 'log_hour': '04'}, 'total_requests': 1413, 'error_requests': 6, 'log_date': '14/Jul/1995', 'log_hour': '04', 'error_rate': 0.004246284501061571, 'distinct_error_hosts': 4}
