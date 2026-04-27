@@ -5,7 +5,12 @@ start = time.time()
 
 client = MongoClient("mongodb://localhost:27017/")
 db = client["etl_project"]
-collection = db["logs"]
+
+logs = db["logs"]
+result_collection = db["query1_results"]
+
+# clear old results
+result_collection.delete_many({})
 
 pipeline = [
     {
@@ -20,11 +25,23 @@ pipeline = [
     }
 ]
 
-results = list(collection.aggregate(pipeline))
+results = list(logs.aggregate(pipeline))
+
+# format results (important for clean schema)
+formatted_results = []
+for r in results:
+    formatted_results.append({
+        "log_date": r["_id"]["log_date"],
+        "status": r["_id"]["status"],
+        "request_count": r["request_count"],
+        "total_bytes": r["total_bytes"]
+    })
+
+# insert into DB
+if formatted_results:
+    result_collection.insert_many(formatted_results)
 
 end = time.time()
 
 print("Runtime:", end - start)
-
-for r in results[:10]:
-    print(r)
+print("Stored Query1 results:", len(formatted_results))

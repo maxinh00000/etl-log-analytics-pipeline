@@ -2,7 +2,11 @@ from pymongo import MongoClient
 
 client = MongoClient("mongodb://localhost:27017/")
 db = client["etl_project"]
-collection = db["logs"]
+
+logs = db["logs"]
+result_collection = db["query3_results"]
+
+result_collection.delete_many({})
 
 pipeline = [
     {
@@ -64,7 +68,20 @@ pipeline = [
     }
 ]
 
-results = list(collection.aggregate(pipeline))
+results = list(logs.aggregate(pipeline))
 
-for r in results[:10]:
-    print(r)
+formatted_results = []
+for r in results:
+    formatted_results.append({
+        "log_date": r["log_date"],
+        "log_hour": r["log_hour"],
+        "total_requests": r["total_requests"],
+        "error_requests": r["error_requests"],
+        "error_rate": r["error_rate"],
+        "distinct_error_hosts": r["distinct_error_hosts"]
+    })
+
+if formatted_results:
+    result_collection.insert_many(formatted_results)
+
+print("Stored Query3 results:", len(formatted_results))
