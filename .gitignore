@@ -4,3 +4,6 @@ __pycache__/
 .env
 data/raw/*
 *.gz
+.env
+node_modules/
+*.out
