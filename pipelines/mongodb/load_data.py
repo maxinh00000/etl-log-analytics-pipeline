@@ -14,14 +14,14 @@ collection = db["logs"]
 collection.delete_many({})
 
 # File path (use your correct path)
-file_path = "E:/Acads/Sem 6/NoSQL/Project/etl-log-analytics-pipeline/data/sample/sample_log.txt"
+file_path = "E:/Acads/Sem 6/NoSQL/Project/etl-log-analytics-pipeline/data/raw/NASA_access_log_Jul95/access_log_Jul95"
 
 # Parse data
 data, malformed = parse_file(file_path)
 
 # Insert into MongoDB
 if data:
-    collection.insert_many(data)
+    collection.insert_many(data, ordered=False)
 
 print(f"Inserted records: {len(data)}")
 print(f"Malformed records: {malformed}")
