@@ -7,3 +7,7 @@ data/raw/*
 .env
 node_modules/
 *.out
+metastore_db/
+hive_warehouse/
+nasa_etl_data/
+NASA_access_log_*
