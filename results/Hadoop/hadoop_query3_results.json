@@ -1,0 +1,5322 @@
+[
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 0,
+    "error_request_count": 24,
+    "total_request_count": 3565,
+    "error_rate": 0.006732,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 1,
+    "error_request_count": 10,
+    "total_request_count": 3004,
+    "error_rate": 0.003329,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 2,
+    "error_request_count": 12,
+    "total_request_count": 2268,
+    "error_rate": 0.005291,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 3,
+    "error_request_count": 16,
+    "total_request_count": 1734,
+    "error_rate": 0.009227,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 4,
+    "error_request_count": 10,
+    "total_request_count": 1482,
+    "error_rate": 0.006748,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 5,
+    "error_request_count": 9,
+    "total_request_count": 1343,
+    "error_rate": 0.006701,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 6,
+    "error_request_count": 4,
+    "total_request_count": 1528,
+    "error_rate": 0.002618,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 7,
+    "error_request_count": 2,
+    "total_request_count": 1557,
+    "error_rate": 0.001285,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 8,
+    "error_request_count": 6,
+    "total_request_count": 1927,
+    "error_rate": 0.003114,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 9,
+    "error_request_count": 3,
+    "total_request_count": 2096,
+    "error_rate": 0.001431,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 10,
+    "error_request_count": 13,
+    "total_request_count": 3046,
+    "error_rate": 0.004268,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 11,
+    "error_request_count": 23,
+    "total_request_count": 3428,
+    "error_rate": 0.006709,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 12,
+    "error_request_count": 10,
+    "total_request_count": 2769,
+    "error_rate": 0.003611,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 13,
+    "error_request_count": 13,
+    "total_request_count": 3086,
+    "error_rate": 0.004213,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 14,
+    "error_request_count": 19,
+    "total_request_count": 3133,
+    "error_rate": 0.006064,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 15,
+    "error_request_count": 17,
+    "total_request_count": 3272,
+    "error_rate": 0.005196,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 16,
+    "error_request_count": 14,
+    "total_request_count": 3191,
+    "error_rate": 0.004387,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 17,
+    "error_request_count": 15,
+    "total_request_count": 3671,
+    "error_rate": 0.004086,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 18,
+    "error_request_count": 15,
+    "total_request_count": 3192,
+    "error_rate": 0.004699,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 19,
+    "error_request_count": 16,
+    "total_request_count": 2831,
+    "error_rate": 0.005652,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 20,
+    "error_request_count": 10,
+    "total_request_count": 2958,
+    "error_rate": 0.003381,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 21,
+    "error_request_count": 24,
+    "total_request_count": 3502,
+    "error_rate": 0.006853,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 22,
+    "error_request_count": 18,
+    "total_request_count": 3278,
+    "error_rate": 0.005491,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-01",
+    "log_hour": 23,
+    "error_request_count": 13,
+    "total_request_count": 2853,
+    "error_rate": 0.004557,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 0,
+    "error_request_count": 20,
+    "total_request_count": 2858,
+    "error_rate": 0.006998,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 1,
+    "error_request_count": 15,
+    "total_request_count": 2570,
+    "error_rate": 0.005837,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 2,
+    "error_request_count": 8,
+    "total_request_count": 2056,
+    "error_rate": 0.003891,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 3,
+    "error_request_count": 7,
+    "total_request_count": 1505,
+    "error_rate": 0.004651,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 4,
+    "error_request_count": 2,
+    "total_request_count": 1286,
+    "error_rate": 0.001555,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 5,
+    "error_request_count": 3,
+    "total_request_count": 1291,
+    "error_rate": 0.002324,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 6,
+    "error_request_count": 10,
+    "total_request_count": 1293,
+    "error_rate": 0.007734,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 7,
+    "error_request_count": 8,
+    "total_request_count": 1229,
+    "error_rate": 0.006509,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 8,
+    "error_request_count": 16,
+    "total_request_count": 1432,
+    "error_rate": 0.011173,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 9,
+    "error_request_count": 14,
+    "total_request_count": 1895,
+    "error_rate": 0.007388,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 10,
+    "error_request_count": 7,
+    "total_request_count": 2124,
+    "error_rate": 0.003296,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 11,
+    "error_request_count": 9,
+    "total_request_count": 2450,
+    "error_rate": 0.003673,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 12,
+    "error_request_count": 14,
+    "total_request_count": 3106,
+    "error_rate": 0.004507,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 13,
+    "error_request_count": 12,
+    "total_request_count": 2915,
+    "error_rate": 0.004117,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 14,
+    "error_request_count": 11,
+    "total_request_count": 3063,
+    "error_rate": 0.003591,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 15,
+    "error_request_count": 14,
+    "total_request_count": 2738,
+    "error_rate": 0.005113,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 16,
+    "error_request_count": 32,
+    "total_request_count": 3155,
+    "error_rate": 0.010143,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 17,
+    "error_request_count": 4,
+    "total_request_count": 3537,
+    "error_rate": 0.001131,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 18,
+    "error_request_count": 15,
+    "total_request_count": 3186,
+    "error_rate": 0.004708,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 19,
+    "error_request_count": 9,
+    "total_request_count": 2790,
+    "error_rate": 0.003226,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 20,
+    "error_request_count": 10,
+    "total_request_count": 2961,
+    "error_rate": 0.003377,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 21,
+    "error_request_count": 11,
+    "total_request_count": 3381,
+    "error_rate": 0.003253,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 22,
+    "error_request_count": 17,
+    "total_request_count": 3730,
+    "error_rate": 0.004558,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-02",
+    "log_hour": 23,
+    "error_request_count": 28,
+    "total_request_count": 3714,
+    "error_rate": 0.007539,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 0,
+    "error_request_count": 15,
+    "total_request_count": 3016,
+    "error_rate": 0.004973,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 1,
+    "error_request_count": 8,
+    "total_request_count": 2395,
+    "error_rate": 0.00334,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 2,
+    "error_request_count": 12,
+    "total_request_count": 2205,
+    "error_rate": 0.005442,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 3,
+    "error_request_count": 6,
+    "total_request_count": 2041,
+    "error_rate": 0.00294,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 4,
+    "error_request_count": 7,
+    "total_request_count": 1539,
+    "error_rate": 0.004548,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 5,
+    "error_request_count": 7,
+    "total_request_count": 1750,
+    "error_rate": 0.004,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 6,
+    "error_request_count": 6,
+    "total_request_count": 1703,
+    "error_rate": 0.003523,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 7,
+    "error_request_count": 17,
+    "total_request_count": 2862,
+    "error_rate": 0.00594,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 8,
+    "error_request_count": 14,
+    "total_request_count": 3672,
+    "error_rate": 0.003813,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 9,
+    "error_request_count": 58,
+    "total_request_count": 4810,
+    "error_rate": 0.012058,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 10,
+    "error_request_count": 72,
+    "total_request_count": 4529,
+    "error_rate": 0.015898,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 11,
+    "error_request_count": 17,
+    "total_request_count": 4791,
+    "error_rate": 0.003548,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 12,
+    "error_request_count": 21,
+    "total_request_count": 5535,
+    "error_rate": 0.003794,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 13,
+    "error_request_count": 15,
+    "total_request_count": 6020,
+    "error_rate": 0.002492,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 14,
+    "error_request_count": 36,
+    "total_request_count": 5515,
+    "error_rate": 0.006528,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 15,
+    "error_request_count": 27,
+    "total_request_count": 5610,
+    "error_rate": 0.004813,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 16,
+    "error_request_count": 29,
+    "total_request_count": 5388,
+    "error_rate": 0.005382,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 17,
+    "error_request_count": 38,
+    "total_request_count": 4545,
+    "error_rate": 0.008361,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 18,
+    "error_request_count": 13,
+    "total_request_count": 3444,
+    "error_rate": 0.003775,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 19,
+    "error_request_count": 20,
+    "total_request_count": 3712,
+    "error_rate": 0.005388,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 20,
+    "error_request_count": 17,
+    "total_request_count": 3760,
+    "error_rate": 0.004521,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 21,
+    "error_request_count": 19,
+    "total_request_count": 3832,
+    "error_rate": 0.004958,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 22,
+    "error_request_count": 18,
+    "total_request_count": 3197,
+    "error_rate": 0.00563,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-03",
+    "log_hour": 23,
+    "error_request_count": 37,
+    "total_request_count": 3713,
+    "error_rate": 0.009965,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 0,
+    "error_request_count": 13,
+    "total_request_count": 3143,
+    "error_rate": 0.004136,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 1,
+    "error_request_count": 20,
+    "total_request_count": 2821,
+    "error_rate": 0.00709,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 2,
+    "error_request_count": 10,
+    "total_request_count": 2530,
+    "error_rate": 0.003953,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 3,
+    "error_request_count": 9,
+    "total_request_count": 1993,
+    "error_rate": 0.004516,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 4,
+    "error_request_count": 0,
+    "total_request_count": 1743,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 5,
+    "error_request_count": 8,
+    "total_request_count": 1733,
+    "error_rate": 0.004616,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 6,
+    "error_request_count": 5,
+    "total_request_count": 1709,
+    "error_rate": 0.002926,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 7,
+    "error_request_count": 3,
+    "total_request_count": 2172,
+    "error_rate": 0.001381,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 8,
+    "error_request_count": 13,
+    "total_request_count": 3006,
+    "error_rate": 0.004325,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 9,
+    "error_request_count": 12,
+    "total_request_count": 3059,
+    "error_rate": 0.003923,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 10,
+    "error_request_count": 17,
+    "total_request_count": 3583,
+    "error_rate": 0.004745,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 11,
+    "error_request_count": 29,
+    "total_request_count": 3584,
+    "error_rate": 0.008092,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 12,
+    "error_request_count": 11,
+    "total_request_count": 3402,
+    "error_rate": 0.003233,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 13,
+    "error_request_count": 18,
+    "total_request_count": 3550,
+    "error_rate": 0.00507,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 14,
+    "error_request_count": 19,
+    "total_request_count": 3278,
+    "error_rate": 0.005796,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 15,
+    "error_request_count": 23,
+    "total_request_count": 4174,
+    "error_rate": 0.00551,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 16,
+    "error_request_count": 30,
+    "total_request_count": 3579,
+    "error_rate": 0.008382,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 17,
+    "error_request_count": 17,
+    "total_request_count": 3693,
+    "error_rate": 0.004603,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 18,
+    "error_request_count": 41,
+    "total_request_count": 2912,
+    "error_rate": 0.01408,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 19,
+    "error_request_count": 3,
+    "total_request_count": 2955,
+    "error_rate": 0.001015,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 20,
+    "error_request_count": 10,
+    "total_request_count": 2683,
+    "error_rate": 0.003727,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 21,
+    "error_request_count": 13,
+    "total_request_count": 2671,
+    "error_rate": 0.004867,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 22,
+    "error_request_count": 12,
+    "total_request_count": 2941,
+    "error_rate": 0.00408,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-04",
+    "log_hour": 23,
+    "error_request_count": 27,
+    "total_request_count": 3538,
+    "error_rate": 0.007631,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 0,
+    "error_request_count": 25,
+    "total_request_count": 2505,
+    "error_rate": 0.00998,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 1,
+    "error_request_count": 34,
+    "total_request_count": 2032,
+    "error_rate": 0.016732,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 2,
+    "error_request_count": 8,
+    "total_request_count": 1933,
+    "error_rate": 0.004139,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 3,
+    "error_request_count": 8,
+    "total_request_count": 1998,
+    "error_rate": 0.004004,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 4,
+    "error_request_count": 4,
+    "total_request_count": 1479,
+    "error_rate": 0.002705,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 5,
+    "error_request_count": 4,
+    "total_request_count": 1634,
+    "error_rate": 0.002448,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 6,
+    "error_request_count": 5,
+    "total_request_count": 1821,
+    "error_rate": 0.002746,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 7,
+    "error_request_count": 15,
+    "total_request_count": 2996,
+    "error_rate": 0.005007,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 8,
+    "error_request_count": 29,
+    "total_request_count": 3824,
+    "error_rate": 0.007584,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 9,
+    "error_request_count": 20,
+    "total_request_count": 4456,
+    "error_rate": 0.004488,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 10,
+    "error_request_count": 21,
+    "total_request_count": 4974,
+    "error_rate": 0.004222,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 11,
+    "error_request_count": 13,
+    "total_request_count": 6175,
+    "error_rate": 0.002105,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 12,
+    "error_request_count": 23,
+    "total_request_count": 6165,
+    "error_rate": 0.003731,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 13,
+    "error_request_count": 8,
+    "total_request_count": 5115,
+    "error_rate": 0.001564,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 14,
+    "error_request_count": 32,
+    "total_request_count": 8034,
+    "error_rate": 0.003983,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 15,
+    "error_request_count": 39,
+    "total_request_count": 6757,
+    "error_rate": 0.005772,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 16,
+    "error_request_count": 35,
+    "total_request_count": 7211,
+    "error_rate": 0.004854,
+    "distinct_error_hosts": 22
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 17,
+    "error_request_count": 17,
+    "total_request_count": 4726,
+    "error_rate": 0.003597,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 18,
+    "error_request_count": 33,
+    "total_request_count": 4243,
+    "error_rate": 0.007778,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 19,
+    "error_request_count": 22,
+    "total_request_count": 3988,
+    "error_rate": 0.005517,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 20,
+    "error_request_count": 21,
+    "total_request_count": 3134,
+    "error_rate": 0.006701,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 21,
+    "error_request_count": 9,
+    "total_request_count": 3137,
+    "error_rate": 0.002869,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 22,
+    "error_request_count": 26,
+    "total_request_count": 3206,
+    "error_rate": 0.00811,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-05",
+    "log_hour": 23,
+    "error_request_count": 49,
+    "total_request_count": 3032,
+    "error_rate": 0.016161,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 0,
+    "error_request_count": 24,
+    "total_request_count": 2658,
+    "error_rate": 0.009029,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 1,
+    "error_request_count": 38,
+    "total_request_count": 1948,
+    "error_rate": 0.019507,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 2,
+    "error_request_count": 5,
+    "total_request_count": 1805,
+    "error_rate": 0.00277,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 3,
+    "error_request_count": 2,
+    "total_request_count": 1539,
+    "error_rate": 0.0013,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 4,
+    "error_request_count": 6,
+    "total_request_count": 1429,
+    "error_rate": 0.004199,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 5,
+    "error_request_count": 7,
+    "total_request_count": 1652,
+    "error_rate": 0.004237,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 6,
+    "error_request_count": 14,
+    "total_request_count": 1830,
+    "error_rate": 0.00765,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 7,
+    "error_request_count": 6,
+    "total_request_count": 2755,
+    "error_rate": 0.002178,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 8,
+    "error_request_count": 16,
+    "total_request_count": 4200,
+    "error_rate": 0.00381,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 9,
+    "error_request_count": 23,
+    "total_request_count": 5011,
+    "error_rate": 0.00459,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 10,
+    "error_request_count": 49,
+    "total_request_count": 5815,
+    "error_rate": 0.008426,
+    "distinct_error_hosts": 26
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 11,
+    "error_request_count": 36,
+    "total_request_count": 6422,
+    "error_rate": 0.005606,
+    "distinct_error_hosts": 23
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 12,
+    "error_request_count": 56,
+    "total_request_count": 6405,
+    "error_rate": 0.008743,
+    "distinct_error_hosts": 22
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 13,
+    "error_request_count": 23,
+    "total_request_count": 6926,
+    "error_rate": 0.003321,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 14,
+    "error_request_count": 31,
+    "total_request_count": 6924,
+    "error_rate": 0.004477,
+    "distinct_error_hosts": 21
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 15,
+    "error_request_count": 37,
+    "total_request_count": 7061,
+    "error_rate": 0.00524,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 16,
+    "error_request_count": 36,
+    "total_request_count": 6678,
+    "error_rate": 0.005391,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 17,
+    "error_request_count": 33,
+    "total_request_count": 5479,
+    "error_rate": 0.006023,
+    "distinct_error_hosts": 22
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 18,
+    "error_request_count": 31,
+    "total_request_count": 4787,
+    "error_rate": 0.006476,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 19,
+    "error_request_count": 32,
+    "total_request_count": 4227,
+    "error_rate": 0.00757,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 20,
+    "error_request_count": 27,
+    "total_request_count": 4060,
+    "error_rate": 0.00665,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 21,
+    "error_request_count": 38,
+    "total_request_count": 3480,
+    "error_rate": 0.01092,
+    "distinct_error_hosts": 26
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 22,
+    "error_request_count": 43,
+    "total_request_count": 3961,
+    "error_rate": 0.010856,
+    "distinct_error_hosts": 31
+  },
+  {
+    "log_date": "1995-07-06",
+    "log_hour": 23,
+    "error_request_count": 32,
+    "total_request_count": 3908,
+    "error_rate": 0.008188,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 0,
+    "error_request_count": 13,
+    "total_request_count": 2691,
+    "error_rate": 0.004831,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 1,
+    "error_request_count": 18,
+    "total_request_count": 2639,
+    "error_rate": 0.006821,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 2,
+    "error_request_count": 15,
+    "total_request_count": 2189,
+    "error_rate": 0.006852,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 3,
+    "error_request_count": 12,
+    "total_request_count": 1590,
+    "error_rate": 0.007547,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 4,
+    "error_request_count": 15,
+    "total_request_count": 1361,
+    "error_rate": 0.011021,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 5,
+    "error_request_count": 6,
+    "total_request_count": 959,
+    "error_rate": 0.006257,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 6,
+    "error_request_count": 8,
+    "total_request_count": 1168,
+    "error_rate": 0.006849,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 7,
+    "error_request_count": 10,
+    "total_request_count": 2320,
+    "error_rate": 0.00431,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 8,
+    "error_request_count": 31,
+    "total_request_count": 4533,
+    "error_rate": 0.006839,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 8,
+    "error_request_count": 2,
+    "total_request_count": 310,
+    "error_rate": 0.006452,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 9,
+    "error_request_count": 25,
+    "total_request_count": 5406,
+    "error_rate": 0.004624,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 10,
+    "error_request_count": 33,
+    "total_request_count": 5944,
+    "error_rate": 0.005552,
+    "distinct_error_hosts": 21
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 11,
+    "error_request_count": 30,
+    "total_request_count": 6536,
+    "error_rate": 0.00459,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 12,
+    "error_request_count": 24,
+    "total_request_count": 6784,
+    "error_rate": 0.003538,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 13,
+    "error_request_count": 39,
+    "total_request_count": 5962,
+    "error_rate": 0.006541,
+    "distinct_error_hosts": 22
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 14,
+    "error_request_count": 24,
+    "total_request_count": 4714,
+    "error_rate": 0.005091,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 15,
+    "error_request_count": 37,
+    "total_request_count": 5752,
+    "error_rate": 0.006433,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 16,
+    "error_request_count": 42,
+    "total_request_count": 5449,
+    "error_rate": 0.007708,
+    "distinct_error_hosts": 22
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 17,
+    "error_request_count": 32,
+    "total_request_count": 4999,
+    "error_rate": 0.006401,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 18,
+    "error_request_count": 34,
+    "total_request_count": 3333,
+    "error_rate": 0.010201,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 19,
+    "error_request_count": 27,
+    "total_request_count": 2554,
+    "error_rate": 0.010572,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 20,
+    "error_request_count": 15,
+    "total_request_count": 2680,
+    "error_rate": 0.005597,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 21,
+    "error_request_count": 24,
+    "total_request_count": 2450,
+    "error_rate": 0.009796,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 22,
+    "error_request_count": 32,
+    "total_request_count": 2463,
+    "error_rate": 0.012992,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-07",
+    "log_hour": 23,
+    "error_request_count": 24,
+    "total_request_count": 2447,
+    "error_rate": 0.009808,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 0,
+    "error_request_count": 23,
+    "total_request_count": 2386,
+    "error_rate": 0.00964,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 1,
+    "error_request_count": 12,
+    "total_request_count": 1707,
+    "error_rate": 0.00703,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 2,
+    "error_request_count": 22,
+    "total_request_count": 1279,
+    "error_rate": 0.017201,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 3,
+    "error_request_count": 4,
+    "total_request_count": 877,
+    "error_rate": 0.004561,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 4,
+    "error_request_count": 2,
+    "total_request_count": 648,
+    "error_rate": 0.003086,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 5,
+    "error_request_count": 6,
+    "total_request_count": 866,
+    "error_rate": 0.006928,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 6,
+    "error_request_count": 1,
+    "total_request_count": 794,
+    "error_rate": 0.001259,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 7,
+    "error_request_count": 2,
+    "total_request_count": 895,
+    "error_rate": 0.002235,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 8,
+    "error_request_count": 2,
+    "total_request_count": 1010,
+    "error_rate": 0.00198,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 9,
+    "error_request_count": 10,
+    "total_request_count": 1276,
+    "error_rate": 0.007837,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 10,
+    "error_request_count": 11,
+    "total_request_count": 1869,
+    "error_rate": 0.005886,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 11,
+    "error_request_count": 16,
+    "total_request_count": 1558,
+    "error_rate": 0.01027,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 12,
+    "error_request_count": 19,
+    "total_request_count": 1714,
+    "error_rate": 0.011085,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 13,
+    "error_request_count": 8,
+    "total_request_count": 1914,
+    "error_rate": 0.00418,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 14,
+    "error_request_count": 25,
+    "total_request_count": 2387,
+    "error_rate": 0.010473,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 15,
+    "error_request_count": 16,
+    "total_request_count": 1985,
+    "error_rate": 0.00806,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 16,
+    "error_request_count": 25,
+    "total_request_count": 2346,
+    "error_rate": 0.010656,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 17,
+    "error_request_count": 19,
+    "total_request_count": 2326,
+    "error_rate": 0.008169,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 18,
+    "error_request_count": 20,
+    "total_request_count": 1789,
+    "error_rate": 0.011179,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 19,
+    "error_request_count": 12,
+    "total_request_count": 1783,
+    "error_rate": 0.00673,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 20,
+    "error_request_count": 9,
+    "total_request_count": 1669,
+    "error_rate": 0.005392,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 21,
+    "error_request_count": 17,
+    "total_request_count": 1875,
+    "error_rate": 0.009067,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 22,
+    "error_request_count": 13,
+    "total_request_count": 1901,
+    "error_rate": 0.006839,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-08",
+    "log_hour": 23,
+    "error_request_count": 8,
+    "total_request_count": 2013,
+    "error_rate": 0.003974,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 0,
+    "error_request_count": 11,
+    "total_request_count": 1597,
+    "error_rate": 0.006888,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 1,
+    "error_request_count": 9,
+    "total_request_count": 1515,
+    "error_rate": 0.005941,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 2,
+    "error_request_count": 25,
+    "total_request_count": 1234,
+    "error_rate": 0.020259,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 3,
+    "error_request_count": 7,
+    "total_request_count": 1007,
+    "error_rate": 0.006951,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 4,
+    "error_request_count": 16,
+    "total_request_count": 770,
+    "error_rate": 0.020779,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 5,
+    "error_request_count": 0,
+    "total_request_count": 397,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 6,
+    "error_request_count": 7,
+    "total_request_count": 442,
+    "error_rate": 0.015837,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 7,
+    "error_request_count": 3,
+    "total_request_count": 484,
+    "error_rate": 0.006198,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 8,
+    "error_request_count": 0,
+    "total_request_count": 708,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 9,
+    "error_request_count": 10,
+    "total_request_count": 1068,
+    "error_rate": 0.009363,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 10,
+    "error_request_count": 18,
+    "total_request_count": 1272,
+    "error_rate": 0.014151,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 11,
+    "error_request_count": 19,
+    "total_request_count": 1936,
+    "error_rate": 0.009814,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 12,
+    "error_request_count": 11,
+    "total_request_count": 1838,
+    "error_rate": 0.005985,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 13,
+    "error_request_count": 13,
+    "total_request_count": 1636,
+    "error_rate": 0.007946,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 14,
+    "error_request_count": 13,
+    "total_request_count": 2042,
+    "error_rate": 0.006366,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 15,
+    "error_request_count": 19,
+    "total_request_count": 1759,
+    "error_rate": 0.010802,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 16,
+    "error_request_count": 18,
+    "total_request_count": 2225,
+    "error_rate": 0.00809,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 17,
+    "error_request_count": 15,
+    "total_request_count": 1838,
+    "error_rate": 0.008161,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 18,
+    "error_request_count": 19,
+    "total_request_count": 1730,
+    "error_rate": 0.010983,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 19,
+    "error_request_count": 26,
+    "total_request_count": 1682,
+    "error_rate": 0.015458,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 20,
+    "error_request_count": 34,
+    "total_request_count": 2309,
+    "error_rate": 0.014725,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 21,
+    "error_request_count": 26,
+    "total_request_count": 2161,
+    "error_rate": 0.012031,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 22,
+    "error_request_count": 21,
+    "total_request_count": 1854,
+    "error_rate": 0.011327,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-09",
+    "log_hour": 23,
+    "error_request_count": 8,
+    "total_request_count": 1768,
+    "error_rate": 0.004525,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 0,
+    "error_request_count": 6,
+    "total_request_count": 1841,
+    "error_rate": 0.003259,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 1,
+    "error_request_count": 7,
+    "total_request_count": 1522,
+    "error_rate": 0.004599,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 2,
+    "error_request_count": 8,
+    "total_request_count": 1298,
+    "error_rate": 0.006163,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 3,
+    "error_request_count": 1,
+    "total_request_count": 906,
+    "error_rate": 0.001104,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 4,
+    "error_request_count": 1,
+    "total_request_count": 785,
+    "error_rate": 0.001274,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 5,
+    "error_request_count": 5,
+    "total_request_count": 773,
+    "error_rate": 0.006468,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 6,
+    "error_request_count": 4,
+    "total_request_count": 1223,
+    "error_rate": 0.003271,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 7,
+    "error_request_count": 5,
+    "total_request_count": 1533,
+    "error_rate": 0.003262,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 8,
+    "error_request_count": 16,
+    "total_request_count": 2908,
+    "error_rate": 0.005502,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 9,
+    "error_request_count": 19,
+    "total_request_count": 3802,
+    "error_rate": 0.004997,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 10,
+    "error_request_count": 11,
+    "total_request_count": 4221,
+    "error_rate": 0.002606,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 11,
+    "error_request_count": 35,
+    "total_request_count": 4914,
+    "error_rate": 0.007123,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 12,
+    "error_request_count": 28,
+    "total_request_count": 5033,
+    "error_rate": 0.005563,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 13,
+    "error_request_count": 16,
+    "total_request_count": 4466,
+    "error_rate": 0.003583,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 14,
+    "error_request_count": 31,
+    "total_request_count": 5102,
+    "error_rate": 0.006076,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 15,
+    "error_request_count": 41,
+    "total_request_count": 5314,
+    "error_rate": 0.007715,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 16,
+    "error_request_count": 23,
+    "total_request_count": 5137,
+    "error_rate": 0.004477,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 17,
+    "error_request_count": 23,
+    "total_request_count": 4541,
+    "error_rate": 0.005065,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 18,
+    "error_request_count": 19,
+    "total_request_count": 3464,
+    "error_rate": 0.005485,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 19,
+    "error_request_count": 15,
+    "total_request_count": 3226,
+    "error_rate": 0.00465,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 20,
+    "error_request_count": 16,
+    "total_request_count": 2806,
+    "error_rate": 0.005702,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 21,
+    "error_request_count": 22,
+    "total_request_count": 2728,
+    "error_rate": 0.008065,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 22,
+    "error_request_count": 20,
+    "total_request_count": 2820,
+    "error_rate": 0.007092,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-10",
+    "log_hour": 23,
+    "error_request_count": 27,
+    "total_request_count": 2496,
+    "error_rate": 0.010817,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 0,
+    "error_request_count": 21,
+    "total_request_count": 1968,
+    "error_rate": 0.010671,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 1,
+    "error_request_count": 36,
+    "total_request_count": 1536,
+    "error_rate": 0.023438,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 2,
+    "error_request_count": 12,
+    "total_request_count": 1235,
+    "error_rate": 0.009717,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 3,
+    "error_request_count": 8,
+    "total_request_count": 1286,
+    "error_rate": 0.006221,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 4,
+    "error_request_count": 9,
+    "total_request_count": 1107,
+    "error_rate": 0.00813,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 5,
+    "error_request_count": 3,
+    "total_request_count": 1113,
+    "error_rate": 0.002695,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 6,
+    "error_request_count": 8,
+    "total_request_count": 1290,
+    "error_rate": 0.006202,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 7,
+    "error_request_count": 17,
+    "total_request_count": 2569,
+    "error_rate": 0.006617,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 8,
+    "error_request_count": 29,
+    "total_request_count": 3610,
+    "error_rate": 0.008033,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 9,
+    "error_request_count": 18,
+    "total_request_count": 3581,
+    "error_rate": 0.005027,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 10,
+    "error_request_count": 15,
+    "total_request_count": 4468,
+    "error_rate": 0.003357,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 11,
+    "error_request_count": 19,
+    "total_request_count": 4745,
+    "error_rate": 0.004004,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 12,
+    "error_request_count": 16,
+    "total_request_count": 5504,
+    "error_rate": 0.002907,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 13,
+    "error_request_count": 21,
+    "total_request_count": 5325,
+    "error_rate": 0.003944,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 14,
+    "error_request_count": 64,
+    "total_request_count": 6061,
+    "error_rate": 0.010559,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 15,
+    "error_request_count": 38,
+    "total_request_count": 5606,
+    "error_rate": 0.006778,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 16,
+    "error_request_count": 15,
+    "total_request_count": 5546,
+    "error_rate": 0.002705,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 17,
+    "error_request_count": 30,
+    "total_request_count": 4484,
+    "error_rate": 0.00669,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 18,
+    "error_request_count": 16,
+    "total_request_count": 3922,
+    "error_rate": 0.00408,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 19,
+    "error_request_count": 25,
+    "total_request_count": 3618,
+    "error_rate": 0.00691,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 20,
+    "error_request_count": 17,
+    "total_request_count": 3280,
+    "error_rate": 0.005183,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 21,
+    "error_request_count": 11,
+    "total_request_count": 2796,
+    "error_rate": 0.003934,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 22,
+    "error_request_count": 18,
+    "total_request_count": 2867,
+    "error_rate": 0.006278,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-11",
+    "log_hour": 23,
+    "error_request_count": 5,
+    "total_request_count": 2890,
+    "error_rate": 0.00173,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 0,
+    "error_request_count": 6,
+    "total_request_count": 2330,
+    "error_rate": 0.002575,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 1,
+    "error_request_count": 9,
+    "total_request_count": 1977,
+    "error_rate": 0.004552,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 2,
+    "error_request_count": 8,
+    "total_request_count": 2037,
+    "error_rate": 0.003927,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 3,
+    "error_request_count": 1,
+    "total_request_count": 1458,
+    "error_rate": 0.000686,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 4,
+    "error_request_count": 1,
+    "total_request_count": 1478,
+    "error_rate": 0.000677,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 5,
+    "error_request_count": 4,
+    "total_request_count": 1437,
+    "error_rate": 0.002784,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 6,
+    "error_request_count": 4,
+    "total_request_count": 1831,
+    "error_rate": 0.002185,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 7,
+    "error_request_count": 12,
+    "total_request_count": 2412,
+    "error_rate": 0.004975,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 8,
+    "error_request_count": 8,
+    "total_request_count": 3916,
+    "error_rate": 0.002043,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 9,
+    "error_request_count": 9,
+    "total_request_count": 4774,
+    "error_rate": 0.001885,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 10,
+    "error_request_count": 82,
+    "total_request_count": 5244,
+    "error_rate": 0.015637,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 11,
+    "error_request_count": 29,
+    "total_request_count": 6021,
+    "error_rate": 0.004816,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 12,
+    "error_request_count": 40,
+    "total_request_count": 5969,
+    "error_rate": 0.006701,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 13,
+    "error_request_count": 35,
+    "total_request_count": 6456,
+    "error_rate": 0.005421,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 14,
+    "error_request_count": 20,
+    "total_request_count": 6293,
+    "error_rate": 0.003178,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 15,
+    "error_request_count": 31,
+    "total_request_count": 5555,
+    "error_rate": 0.005581,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 16,
+    "error_request_count": 26,
+    "total_request_count": 4999,
+    "error_rate": 0.005201,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 17,
+    "error_request_count": 30,
+    "total_request_count": 4711,
+    "error_rate": 0.006368,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 18,
+    "error_request_count": 24,
+    "total_request_count": 4370,
+    "error_rate": 0.005492,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 19,
+    "error_request_count": 18,
+    "total_request_count": 3582,
+    "error_rate": 0.005025,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 20,
+    "error_request_count": 15,
+    "total_request_count": 4169,
+    "error_rate": 0.003598,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 21,
+    "error_request_count": 29,
+    "total_request_count": 3741,
+    "error_rate": 0.007752,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 22,
+    "error_request_count": 21,
+    "total_request_count": 4043,
+    "error_rate": 0.005194,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-12",
+    "log_hour": 23,
+    "error_request_count": 12,
+    "total_request_count": 3733,
+    "error_rate": 0.003215,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 0,
+    "error_request_count": 20,
+    "total_request_count": 3350,
+    "error_rate": 0.00597,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 1,
+    "error_request_count": 20,
+    "total_request_count": 3338,
+    "error_rate": 0.005992,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 2,
+    "error_request_count": 4,
+    "total_request_count": 2943,
+    "error_rate": 0.001359,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 3,
+    "error_request_count": 13,
+    "total_request_count": 2497,
+    "error_rate": 0.005206,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 4,
+    "error_request_count": 5,
+    "total_request_count": 2187,
+    "error_rate": 0.002286,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 5,
+    "error_request_count": 15,
+    "total_request_count": 2696,
+    "error_rate": 0.005564,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 6,
+    "error_request_count": 11,
+    "total_request_count": 3677,
+    "error_rate": 0.002992,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 7,
+    "error_request_count": 11,
+    "total_request_count": 6051,
+    "error_rate": 0.001818,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 8,
+    "error_request_count": 30,
+    "total_request_count": 11567,
+    "error_rate": 0.002594,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 9,
+    "error_request_count": 31,
+    "total_request_count": 14926,
+    "error_rate": 0.002077,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 10,
+    "error_request_count": 40,
+    "total_request_count": 10214,
+    "error_rate": 0.003916,
+    "distinct_error_hosts": 26
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 11,
+    "error_request_count": 76,
+    "total_request_count": 9748,
+    "error_rate": 0.007796,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 12,
+    "error_request_count": 23,
+    "total_request_count": 8533,
+    "error_rate": 0.002695,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 13,
+    "error_request_count": 20,
+    "total_request_count": 7327,
+    "error_rate": 0.00273,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 14,
+    "error_request_count": 38,
+    "total_request_count": 7478,
+    "error_rate": 0.005082,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 15,
+    "error_request_count": 41,
+    "total_request_count": 7298,
+    "error_rate": 0.005618,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 16,
+    "error_request_count": 37,
+    "total_request_count": 7150,
+    "error_rate": 0.005175,
+    "distinct_error_hosts": 21
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 17,
+    "error_request_count": 4,
+    "total_request_count": 1295,
+    "error_rate": 0.003089,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 17,
+    "error_request_count": 6,
+    "total_request_count": 2290,
+    "error_rate": 0.00262,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 18,
+    "error_request_count": 13,
+    "total_request_count": 4551,
+    "error_rate": 0.002857,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 19,
+    "error_request_count": 8,
+    "total_request_count": 2269,
+    "error_rate": 0.003526,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 20,
+    "error_request_count": 30,
+    "total_request_count": 2365,
+    "error_rate": 0.012685,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 21,
+    "error_request_count": 6,
+    "total_request_count": 3682,
+    "error_rate": 0.00163,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 22,
+    "error_request_count": 20,
+    "total_request_count": 3351,
+    "error_rate": 0.005968,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-13",
+    "log_hour": 23,
+    "error_request_count": 12,
+    "total_request_count": 3420,
+    "error_rate": 0.003509,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 0,
+    "error_request_count": 14,
+    "total_request_count": 3227,
+    "error_rate": 0.004338,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 1,
+    "error_request_count": 8,
+    "total_request_count": 2155,
+    "error_rate": 0.003712,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 2,
+    "error_request_count": 7,
+    "total_request_count": 1995,
+    "error_rate": 0.003509,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 3,
+    "error_request_count": 5,
+    "total_request_count": 1966,
+    "error_rate": 0.002543,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 4,
+    "error_request_count": 6,
+    "total_request_count": 1413,
+    "error_rate": 0.004246,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 5,
+    "error_request_count": 10,
+    "total_request_count": 1902,
+    "error_rate": 0.005258,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 6,
+    "error_request_count": 5,
+    "total_request_count": 1657,
+    "error_rate": 0.003018,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 7,
+    "error_request_count": 9,
+    "total_request_count": 2991,
+    "error_rate": 0.003009,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 8,
+    "error_request_count": 13,
+    "total_request_count": 3982,
+    "error_rate": 0.003265,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 9,
+    "error_request_count": 36,
+    "total_request_count": 4862,
+    "error_rate": 0.007404,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 10,
+    "error_request_count": 21,
+    "total_request_count": 5314,
+    "error_rate": 0.003952,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 11,
+    "error_request_count": 22,
+    "total_request_count": 4738,
+    "error_rate": 0.004643,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 12,
+    "error_request_count": 20,
+    "total_request_count": 4835,
+    "error_rate": 0.004137,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 13,
+    "error_request_count": 34,
+    "total_request_count": 5624,
+    "error_rate": 0.006046,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 14,
+    "error_request_count": 27,
+    "total_request_count": 5115,
+    "error_rate": 0.005279,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 15,
+    "error_request_count": 36,
+    "total_request_count": 5318,
+    "error_rate": 0.006769,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 16,
+    "error_request_count": 14,
+    "total_request_count": 5301,
+    "error_rate": 0.002641,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 17,
+    "error_request_count": 48,
+    "total_request_count": 4157,
+    "error_rate": 0.011547,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 18,
+    "error_request_count": 13,
+    "total_request_count": 3140,
+    "error_rate": 0.00414,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 19,
+    "error_request_count": 8,
+    "total_request_count": 3332,
+    "error_rate": 0.002401,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 20,
+    "error_request_count": 22,
+    "total_request_count": 2823,
+    "error_rate": 0.007793,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 21,
+    "error_request_count": 18,
+    "total_request_count": 2709,
+    "error_rate": 0.006645,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 22,
+    "error_request_count": 12,
+    "total_request_count": 3021,
+    "error_rate": 0.003972,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-14",
+    "log_hour": 23,
+    "error_request_count": 7,
+    "total_request_count": 2525,
+    "error_rate": 0.002772,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 0,
+    "error_request_count": 25,
+    "total_request_count": 1916,
+    "error_rate": 0.013048,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 1,
+    "error_request_count": 4,
+    "total_request_count": 1960,
+    "error_rate": 0.002041,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 2,
+    "error_request_count": 12,
+    "total_request_count": 1525,
+    "error_rate": 0.007869,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 3,
+    "error_request_count": 11,
+    "total_request_count": 1299,
+    "error_rate": 0.008468,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 4,
+    "error_request_count": 1,
+    "total_request_count": 1086,
+    "error_rate": 0.000921,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 5,
+    "error_request_count": 11,
+    "total_request_count": 950,
+    "error_rate": 0.011579,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 6,
+    "error_request_count": 6,
+    "total_request_count": 756,
+    "error_rate": 0.007937,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 7,
+    "error_request_count": 11,
+    "total_request_count": 1046,
+    "error_rate": 0.010516,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 8,
+    "error_request_count": 1,
+    "total_request_count": 1225,
+    "error_rate": 0.000816,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 9,
+    "error_request_count": 2,
+    "total_request_count": 1554,
+    "error_rate": 0.001287,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 10,
+    "error_request_count": 17,
+    "total_request_count": 2012,
+    "error_rate": 0.008449,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 11,
+    "error_request_count": 7,
+    "total_request_count": 2095,
+    "error_rate": 0.003341,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 12,
+    "error_request_count": 11,
+    "total_request_count": 2276,
+    "error_rate": 0.004833,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 13,
+    "error_request_count": 13,
+    "total_request_count": 2283,
+    "error_rate": 0.005694,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 14,
+    "error_request_count": 7,
+    "total_request_count": 2603,
+    "error_rate": 0.002689,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 15,
+    "error_request_count": 8,
+    "total_request_count": 2606,
+    "error_rate": 0.00307,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 16,
+    "error_request_count": 10,
+    "total_request_count": 2642,
+    "error_rate": 0.003785,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 17,
+    "error_request_count": 12,
+    "total_request_count": 2511,
+    "error_rate": 0.004779,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 18,
+    "error_request_count": 13,
+    "total_request_count": 2123,
+    "error_rate": 0.006123,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 19,
+    "error_request_count": 19,
+    "total_request_count": 2307,
+    "error_rate": 0.008236,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 20,
+    "error_request_count": 8,
+    "total_request_count": 2095,
+    "error_rate": 0.003819,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 21,
+    "error_request_count": 19,
+    "total_request_count": 2024,
+    "error_rate": 0.009387,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 22,
+    "error_request_count": 16,
+    "total_request_count": 2295,
+    "error_rate": 0.006972,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-15",
+    "log_hour": 23,
+    "error_request_count": 10,
+    "total_request_count": 2343,
+    "error_rate": 0.004268,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 0,
+    "error_request_count": 3,
+    "total_request_count": 2069,
+    "error_rate": 0.00145,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 1,
+    "error_request_count": 5,
+    "total_request_count": 2083,
+    "error_rate": 0.0024,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 2,
+    "error_request_count": 2,
+    "total_request_count": 1285,
+    "error_rate": 0.001556,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 3,
+    "error_request_count": 8,
+    "total_request_count": 844,
+    "error_rate": 0.009479,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 4,
+    "error_request_count": 1,
+    "total_request_count": 758,
+    "error_rate": 0.001319,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 5,
+    "error_request_count": 1,
+    "total_request_count": 561,
+    "error_rate": 0.001783,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 6,
+    "error_request_count": 5,
+    "total_request_count": 876,
+    "error_rate": 0.005708,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 7,
+    "error_request_count": 5,
+    "total_request_count": 742,
+    "error_rate": 0.006739,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 8,
+    "error_request_count": 6,
+    "total_request_count": 1010,
+    "error_rate": 0.005941,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 9,
+    "error_request_count": 6,
+    "total_request_count": 1396,
+    "error_rate": 0.004298,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 10,
+    "error_request_count": 7,
+    "total_request_count": 1646,
+    "error_rate": 0.004253,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 11,
+    "error_request_count": 13,
+    "total_request_count": 1964,
+    "error_rate": 0.006619,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 12,
+    "error_request_count": 11,
+    "total_request_count": 2283,
+    "error_rate": 0.004818,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 13,
+    "error_request_count": 24,
+    "total_request_count": 2638,
+    "error_rate": 0.009098,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 14,
+    "error_request_count": 4,
+    "total_request_count": 3006,
+    "error_rate": 0.001331,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 15,
+    "error_request_count": 27,
+    "total_request_count": 2644,
+    "error_rate": 0.010212,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 16,
+    "error_request_count": 4,
+    "total_request_count": 2481,
+    "error_rate": 0.001612,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 17,
+    "error_request_count": 11,
+    "total_request_count": 2886,
+    "error_rate": 0.003812,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 18,
+    "error_request_count": 10,
+    "total_request_count": 2644,
+    "error_rate": 0.003782,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 19,
+    "error_request_count": 18,
+    "total_request_count": 3014,
+    "error_rate": 0.005972,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 20,
+    "error_request_count": 24,
+    "total_request_count": 2733,
+    "error_rate": 0.008782,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 21,
+    "error_request_count": 15,
+    "total_request_count": 2806,
+    "error_rate": 0.005346,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 22,
+    "error_request_count": 18,
+    "total_request_count": 3000,
+    "error_rate": 0.006,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-16",
+    "log_hour": 23,
+    "error_request_count": 29,
+    "total_request_count": 2485,
+    "error_rate": 0.01167,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 0,
+    "error_request_count": 11,
+    "total_request_count": 2054,
+    "error_rate": 0.005355,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 1,
+    "error_request_count": 10,
+    "total_request_count": 1677,
+    "error_rate": 0.005963,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 2,
+    "error_request_count": 4,
+    "total_request_count": 1066,
+    "error_rate": 0.003752,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 3,
+    "error_request_count": 8,
+    "total_request_count": 1111,
+    "error_rate": 0.007201,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 4,
+    "error_request_count": 2,
+    "total_request_count": 1246,
+    "error_rate": 0.001605,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 5,
+    "error_request_count": 6,
+    "total_request_count": 970,
+    "error_rate": 0.006186,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 6,
+    "error_request_count": 1,
+    "total_request_count": 958,
+    "error_rate": 0.001044,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 7,
+    "error_request_count": 6,
+    "total_request_count": 1851,
+    "error_rate": 0.003241,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 8,
+    "error_request_count": 14,
+    "total_request_count": 2680,
+    "error_rate": 0.005224,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 9,
+    "error_request_count": 12,
+    "total_request_count": 3963,
+    "error_rate": 0.003028,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 10,
+    "error_request_count": 37,
+    "total_request_count": 4511,
+    "error_rate": 0.008202,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 11,
+    "error_request_count": 20,
+    "total_request_count": 4777,
+    "error_rate": 0.004187,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 12,
+    "error_request_count": 47,
+    "total_request_count": 4825,
+    "error_rate": 0.009741,
+    "distinct_error_hosts": 21
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 13,
+    "error_request_count": 34,
+    "total_request_count": 4998,
+    "error_rate": 0.006803,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 14,
+    "error_request_count": 24,
+    "total_request_count": 6424,
+    "error_rate": 0.003736,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 15,
+    "error_request_count": 24,
+    "total_request_count": 5301,
+    "error_rate": 0.004527,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 16,
+    "error_request_count": 20,
+    "total_request_count": 5429,
+    "error_rate": 0.003684,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 17,
+    "error_request_count": 25,
+    "total_request_count": 3982,
+    "error_rate": 0.006278,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 18,
+    "error_request_count": 19,
+    "total_request_count": 3385,
+    "error_rate": 0.005613,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 19,
+    "error_request_count": 13,
+    "total_request_count": 2743,
+    "error_rate": 0.004739,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 20,
+    "error_request_count": 8,
+    "total_request_count": 2553,
+    "error_rate": 0.003134,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 21,
+    "error_request_count": 21,
+    "total_request_count": 3170,
+    "error_rate": 0.006625,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 22,
+    "error_request_count": 27,
+    "total_request_count": 2896,
+    "error_rate": 0.009323,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-17",
+    "log_hour": 23,
+    "error_request_count": 15,
+    "total_request_count": 2411,
+    "error_rate": 0.006221,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 0,
+    "error_request_count": 25,
+    "total_request_count": 2291,
+    "error_rate": 0.010912,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 1,
+    "error_request_count": 5,
+    "total_request_count": 1790,
+    "error_rate": 0.002793,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 2,
+    "error_request_count": 6,
+    "total_request_count": 1670,
+    "error_rate": 0.003593,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 3,
+    "error_request_count": 7,
+    "total_request_count": 792,
+    "error_rate": 0.008838,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 4,
+    "error_request_count": 0,
+    "total_request_count": 316,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 5,
+    "error_request_count": 0,
+    "total_request_count": 409,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 6,
+    "error_request_count": 0,
+    "total_request_count": 371,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 7,
+    "error_request_count": 5,
+    "total_request_count": 944,
+    "error_rate": 0.005297,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 8,
+    "error_request_count": 9,
+    "total_request_count": 2279,
+    "error_rate": 0.003949,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 9,
+    "error_request_count": 28,
+    "total_request_count": 3403,
+    "error_rate": 0.008228,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 10,
+    "error_request_count": 28,
+    "total_request_count": 3235,
+    "error_rate": 0.008655,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 11,
+    "error_request_count": 20,
+    "total_request_count": 3688,
+    "error_rate": 0.005423,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 12,
+    "error_request_count": 29,
+    "total_request_count": 4723,
+    "error_rate": 0.00614,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 13,
+    "error_request_count": 20,
+    "total_request_count": 5105,
+    "error_rate": 0.003918,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 14,
+    "error_request_count": 60,
+    "total_request_count": 4686,
+    "error_rate": 0.012804,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 15,
+    "error_request_count": 107,
+    "total_request_count": 5431,
+    "error_rate": 0.019702,
+    "distinct_error_hosts": 21
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 16,
+    "error_request_count": 48,
+    "total_request_count": 5475,
+    "error_rate": 0.008767,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 17,
+    "error_request_count": 10,
+    "total_request_count": 2718,
+    "error_rate": 0.003679,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 18,
+    "error_request_count": 7,
+    "total_request_count": 2535,
+    "error_rate": 0.002761,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 19,
+    "error_request_count": 22,
+    "total_request_count": 3252,
+    "error_rate": 0.006765,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 20,
+    "error_request_count": 11,
+    "total_request_count": 2353,
+    "error_rate": 0.004675,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 21,
+    "error_request_count": 5,
+    "total_request_count": 2434,
+    "error_rate": 0.002054,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 22,
+    "error_request_count": 15,
+    "total_request_count": 1970,
+    "error_rate": 0.007614,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-18",
+    "log_hour": 23,
+    "error_request_count": 16,
+    "total_request_count": 2411,
+    "error_rate": 0.006636,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 0,
+    "error_request_count": 9,
+    "total_request_count": 1816,
+    "error_rate": 0.004956,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 1,
+    "error_request_count": 4,
+    "total_request_count": 1631,
+    "error_rate": 0.002452,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 2,
+    "error_request_count": 4,
+    "total_request_count": 1470,
+    "error_rate": 0.002721,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 3,
+    "error_request_count": 3,
+    "total_request_count": 1363,
+    "error_rate": 0.002201,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 4,
+    "error_request_count": 9,
+    "total_request_count": 1485,
+    "error_rate": 0.006061,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 5,
+    "error_request_count": 0,
+    "total_request_count": 1093,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 6,
+    "error_request_count": 2,
+    "total_request_count": 1451,
+    "error_rate": 0.001378,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 7,
+    "error_request_count": 31,
+    "total_request_count": 2259,
+    "error_rate": 0.013723,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 8,
+    "error_request_count": 24,
+    "total_request_count": 3045,
+    "error_rate": 0.007882,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 9,
+    "error_request_count": 15,
+    "total_request_count": 3689,
+    "error_rate": 0.004066,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 10,
+    "error_request_count": 45,
+    "total_request_count": 4494,
+    "error_rate": 0.010013,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 11,
+    "error_request_count": 68,
+    "total_request_count": 4893,
+    "error_rate": 0.013897,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 12,
+    "error_request_count": 77,
+    "total_request_count": 5163,
+    "error_rate": 0.014914,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 13,
+    "error_request_count": 71,
+    "total_request_count": 4639,
+    "error_rate": 0.015305,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 14,
+    "error_request_count": 70,
+    "total_request_count": 4938,
+    "error_rate": 0.014176,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 15,
+    "error_request_count": 62,
+    "total_request_count": 5297,
+    "error_rate": 0.011705,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 16,
+    "error_request_count": 25,
+    "total_request_count": 4505,
+    "error_rate": 0.005549,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 17,
+    "error_request_count": 36,
+    "total_request_count": 4228,
+    "error_rate": 0.008515,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 18,
+    "error_request_count": 16,
+    "total_request_count": 3061,
+    "error_rate": 0.005227,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 19,
+    "error_request_count": 10,
+    "total_request_count": 2805,
+    "error_rate": 0.003565,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 20,
+    "error_request_count": 11,
+    "total_request_count": 2888,
+    "error_rate": 0.003809,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 21,
+    "error_request_count": 18,
+    "total_request_count": 2483,
+    "error_rate": 0.007249,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 22,
+    "error_request_count": 24,
+    "total_request_count": 1880,
+    "error_rate": 0.012766,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-19",
+    "log_hour": 23,
+    "error_request_count": 7,
+    "total_request_count": 2162,
+    "error_rate": 0.003238,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 0,
+    "error_request_count": 12,
+    "total_request_count": 1970,
+    "error_rate": 0.006091,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 1,
+    "error_request_count": 6,
+    "total_request_count": 1650,
+    "error_rate": 0.003636,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 2,
+    "error_request_count": 19,
+    "total_request_count": 1673,
+    "error_rate": 0.011357,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 3,
+    "error_request_count": 9,
+    "total_request_count": 1099,
+    "error_rate": 0.008189,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 4,
+    "error_request_count": 2,
+    "total_request_count": 918,
+    "error_rate": 0.002179,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 5,
+    "error_request_count": 7,
+    "total_request_count": 989,
+    "error_rate": 0.007078,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 6,
+    "error_request_count": 2,
+    "total_request_count": 956,
+    "error_rate": 0.002092,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 7,
+    "error_request_count": 12,
+    "total_request_count": 2114,
+    "error_rate": 0.005676,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 8,
+    "error_request_count": 9,
+    "total_request_count": 3107,
+    "error_rate": 0.002897,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 9,
+    "error_request_count": 21,
+    "total_request_count": 3508,
+    "error_rate": 0.005986,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 10,
+    "error_request_count": 17,
+    "total_request_count": 4228,
+    "error_rate": 0.004021,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 11,
+    "error_request_count": 23,
+    "total_request_count": 4415,
+    "error_rate": 0.00521,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 12,
+    "error_request_count": 48,
+    "total_request_count": 5177,
+    "error_rate": 0.009272,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 13,
+    "error_request_count": 16,
+    "total_request_count": 4311,
+    "error_rate": 0.003711,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 14,
+    "error_request_count": 21,
+    "total_request_count": 4561,
+    "error_rate": 0.004604,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 15,
+    "error_request_count": 36,
+    "total_request_count": 4865,
+    "error_rate": 0.0074,
+    "distinct_error_hosts": 20
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 16,
+    "error_request_count": 48,
+    "total_request_count": 4619,
+    "error_rate": 0.010392,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 17,
+    "error_request_count": 47,
+    "total_request_count": 3910,
+    "error_rate": 0.01202,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 18,
+    "error_request_count": 16,
+    "total_request_count": 2088,
+    "error_rate": 0.007663,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 19,
+    "error_request_count": 15,
+    "total_request_count": 1866,
+    "error_rate": 0.008039,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 20,
+    "error_request_count": 7,
+    "total_request_count": 2038,
+    "error_rate": 0.003435,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 21,
+    "error_request_count": 6,
+    "total_request_count": 2103,
+    "error_rate": 0.002853,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 22,
+    "error_request_count": 16,
+    "total_request_count": 2288,
+    "error_rate": 0.006993,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-20",
+    "log_hour": 23,
+    "error_request_count": 16,
+    "total_request_count": 2140,
+    "error_rate": 0.007477,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 0,
+    "error_request_count": 23,
+    "total_request_count": 1649,
+    "error_rate": 0.013948,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 1,
+    "error_request_count": 4,
+    "total_request_count": 1206,
+    "error_rate": 0.003317,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 2,
+    "error_request_count": 13,
+    "total_request_count": 1420,
+    "error_rate": 0.009155,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 3,
+    "error_request_count": 17,
+    "total_request_count": 1051,
+    "error_rate": 0.016175,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 4,
+    "error_request_count": 5,
+    "total_request_count": 889,
+    "error_rate": 0.005624,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 5,
+    "error_request_count": 5,
+    "total_request_count": 1140,
+    "error_rate": 0.004386,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 6,
+    "error_request_count": 5,
+    "total_request_count": 1174,
+    "error_rate": 0.004259,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 7,
+    "error_request_count": 9,
+    "total_request_count": 2489,
+    "error_rate": 0.003616,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 8,
+    "error_request_count": 9,
+    "total_request_count": 3667,
+    "error_rate": 0.002454,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 9,
+    "error_request_count": 24,
+    "total_request_count": 4084,
+    "error_rate": 0.005877,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 10,
+    "error_request_count": 12,
+    "total_request_count": 3220,
+    "error_rate": 0.003727,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 10,
+    "error_request_count": 2,
+    "total_request_count": 775,
+    "error_rate": 0.002581,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 11,
+    "error_request_count": 26,
+    "total_request_count": 4292,
+    "error_rate": 0.006058,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 12,
+    "error_request_count": 15,
+    "total_request_count": 4274,
+    "error_rate": 0.00351,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 13,
+    "error_request_count": 17,
+    "total_request_count": 5750,
+    "error_rate": 0.002957,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 14,
+    "error_request_count": 40,
+    "total_request_count": 4713,
+    "error_rate": 0.008487,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 15,
+    "error_request_count": 11,
+    "total_request_count": 4106,
+    "error_rate": 0.002679,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 16,
+    "error_request_count": 17,
+    "total_request_count": 4020,
+    "error_rate": 0.004229,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 17,
+    "error_request_count": 24,
+    "total_request_count": 3437,
+    "error_rate": 0.006983,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 18,
+    "error_request_count": 14,
+    "total_request_count": 1780,
+    "error_rate": 0.007865,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 19,
+    "error_request_count": 7,
+    "total_request_count": 1736,
+    "error_rate": 0.004032,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 20,
+    "error_request_count": 7,
+    "total_request_count": 1661,
+    "error_rate": 0.004214,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 21,
+    "error_request_count": 6,
+    "total_request_count": 2356,
+    "error_rate": 0.002547,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 22,
+    "error_request_count": 12,
+    "total_request_count": 1787,
+    "error_rate": 0.006715,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-21",
+    "log_hour": 23,
+    "error_request_count": 10,
+    "total_request_count": 1953,
+    "error_rate": 0.00512,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 0,
+    "error_request_count": 15,
+    "total_request_count": 1591,
+    "error_rate": 0.009428,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 1,
+    "error_request_count": 7,
+    "total_request_count": 1764,
+    "error_rate": 0.003968,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 2,
+    "error_request_count": 4,
+    "total_request_count": 1123,
+    "error_rate": 0.003562,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 3,
+    "error_request_count": 5,
+    "total_request_count": 984,
+    "error_rate": 0.005081,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 4,
+    "error_request_count": 3,
+    "total_request_count": 943,
+    "error_rate": 0.003181,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 5,
+    "error_request_count": 8,
+    "total_request_count": 758,
+    "error_rate": 0.010554,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 6,
+    "error_request_count": 2,
+    "total_request_count": 674,
+    "error_rate": 0.002967,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 7,
+    "error_request_count": 5,
+    "total_request_count": 896,
+    "error_rate": 0.00558,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 8,
+    "error_request_count": 3,
+    "total_request_count": 1468,
+    "error_rate": 0.002044,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 9,
+    "error_request_count": 7,
+    "total_request_count": 1120,
+    "error_rate": 0.00625,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 10,
+    "error_request_count": 6,
+    "total_request_count": 1358,
+    "error_rate": 0.004418,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 11,
+    "error_request_count": 14,
+    "total_request_count": 1501,
+    "error_rate": 0.009327,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 12,
+    "error_request_count": 6,
+    "total_request_count": 1956,
+    "error_rate": 0.003067,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 13,
+    "error_request_count": 4,
+    "total_request_count": 1837,
+    "error_rate": 0.002177,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 14,
+    "error_request_count": 8,
+    "total_request_count": 2059,
+    "error_rate": 0.003885,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 15,
+    "error_request_count": 9,
+    "total_request_count": 2208,
+    "error_rate": 0.004076,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 16,
+    "error_request_count": 24,
+    "total_request_count": 2303,
+    "error_rate": 0.010421,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 17,
+    "error_request_count": 18,
+    "total_request_count": 1746,
+    "error_rate": 0.010309,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 18,
+    "error_request_count": 11,
+    "total_request_count": 1647,
+    "error_rate": 0.006679,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 19,
+    "error_request_count": 5,
+    "total_request_count": 1044,
+    "error_rate": 0.004789,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 20,
+    "error_request_count": 7,
+    "total_request_count": 1404,
+    "error_rate": 0.004986,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 21,
+    "error_request_count": 4,
+    "total_request_count": 1281,
+    "error_rate": 0.003123,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 22,
+    "error_request_count": 5,
+    "total_request_count": 1480,
+    "error_rate": 0.003378,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-22",
+    "log_hour": 23,
+    "error_request_count": 13,
+    "total_request_count": 2121,
+    "error_rate": 0.006129,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 0,
+    "error_request_count": 11,
+    "total_request_count": 1813,
+    "error_rate": 0.006067,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 1,
+    "error_request_count": 7,
+    "total_request_count": 1579,
+    "error_rate": 0.004433,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 2,
+    "error_request_count": 6,
+    "total_request_count": 1324,
+    "error_rate": 0.004532,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 3,
+    "error_request_count": 27,
+    "total_request_count": 915,
+    "error_rate": 0.029508,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 4,
+    "error_request_count": 12,
+    "total_request_count": 900,
+    "error_rate": 0.013333,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 5,
+    "error_request_count": 3,
+    "total_request_count": 818,
+    "error_rate": 0.003667,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 6,
+    "error_request_count": 1,
+    "total_request_count": 671,
+    "error_rate": 0.00149,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 7,
+    "error_request_count": 4,
+    "total_request_count": 472,
+    "error_rate": 0.008475,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 8,
+    "error_request_count": 7,
+    "total_request_count": 1341,
+    "error_rate": 0.00522,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 9,
+    "error_request_count": 4,
+    "total_request_count": 1301,
+    "error_rate": 0.003075,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 10,
+    "error_request_count": 14,
+    "total_request_count": 1299,
+    "error_rate": 0.010778,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 11,
+    "error_request_count": 11,
+    "total_request_count": 1605,
+    "error_rate": 0.006854,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 12,
+    "error_request_count": 5,
+    "total_request_count": 1568,
+    "error_rate": 0.003189,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 13,
+    "error_request_count": 6,
+    "total_request_count": 1820,
+    "error_rate": 0.003297,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 14,
+    "error_request_count": 7,
+    "total_request_count": 1965,
+    "error_rate": 0.003562,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 15,
+    "error_request_count": 9,
+    "total_request_count": 2146,
+    "error_rate": 0.004194,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 16,
+    "error_request_count": 5,
+    "total_request_count": 2169,
+    "error_rate": 0.002305,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 17,
+    "error_request_count": 4,
+    "total_request_count": 2171,
+    "error_rate": 0.001842,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 18,
+    "error_request_count": 12,
+    "total_request_count": 1839,
+    "error_rate": 0.006525,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 19,
+    "error_request_count": 9,
+    "total_request_count": 1922,
+    "error_rate": 0.004683,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 20,
+    "error_request_count": 10,
+    "total_request_count": 2423,
+    "error_rate": 0.004127,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 21,
+    "error_request_count": 30,
+    "total_request_count": 2592,
+    "error_rate": 0.011574,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 22,
+    "error_request_count": 16,
+    "total_request_count": 2406,
+    "error_rate": 0.00665,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-23",
+    "log_hour": 23,
+    "error_request_count": 13,
+    "total_request_count": 2140,
+    "error_rate": 0.006075,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 0,
+    "error_request_count": 27,
+    "total_request_count": 1827,
+    "error_rate": 0.014778,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 1,
+    "error_request_count": 1,
+    "total_request_count": 1219,
+    "error_rate": 0.00082,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 2,
+    "error_request_count": 5,
+    "total_request_count": 1211,
+    "error_rate": 0.004129,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 3,
+    "error_request_count": 29,
+    "total_request_count": 947,
+    "error_rate": 0.030623,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 4,
+    "error_request_count": 15,
+    "total_request_count": 802,
+    "error_rate": 0.018703,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 5,
+    "error_request_count": 7,
+    "total_request_count": 1050,
+    "error_rate": 0.006667,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 6,
+    "error_request_count": 6,
+    "total_request_count": 1174,
+    "error_rate": 0.005111,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 7,
+    "error_request_count": 5,
+    "total_request_count": 1734,
+    "error_rate": 0.002884,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 8,
+    "error_request_count": 15,
+    "total_request_count": 2616,
+    "error_rate": 0.005734,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 9,
+    "error_request_count": 15,
+    "total_request_count": 3588,
+    "error_rate": 0.004181,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 10,
+    "error_request_count": 13,
+    "total_request_count": 3332,
+    "error_rate": 0.003902,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 11,
+    "error_request_count": 22,
+    "total_request_count": 4016,
+    "error_rate": 0.005478,
+    "distinct_error_hosts": 17
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 12,
+    "error_request_count": 17,
+    "total_request_count": 5060,
+    "error_rate": 0.00336,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 13,
+    "error_request_count": 9,
+    "total_request_count": 4925,
+    "error_rate": 0.001827,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 14,
+    "error_request_count": 20,
+    "total_request_count": 4900,
+    "error_rate": 0.004082,
+    "distinct_error_hosts": 12
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 15,
+    "error_request_count": 22,
+    "total_request_count": 5247,
+    "error_rate": 0.004193,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 16,
+    "error_request_count": 9,
+    "total_request_count": 4896,
+    "error_rate": 0.001838,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 17,
+    "error_request_count": 17,
+    "total_request_count": 3698,
+    "error_rate": 0.004597,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 18,
+    "error_request_count": 13,
+    "total_request_count": 2326,
+    "error_rate": 0.005589,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 19,
+    "error_request_count": 13,
+    "total_request_count": 2239,
+    "error_rate": 0.005806,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 20,
+    "error_request_count": 8,
+    "total_request_count": 1566,
+    "error_rate": 0.005109,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 21,
+    "error_request_count": 17,
+    "total_request_count": 2144,
+    "error_rate": 0.007929,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 22,
+    "error_request_count": 7,
+    "total_request_count": 1958,
+    "error_rate": 0.003575,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-24",
+    "log_hour": 23,
+    "error_request_count": 23,
+    "total_request_count": 1784,
+    "error_rate": 0.012892,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 0,
+    "error_request_count": 5,
+    "total_request_count": 1419,
+    "error_rate": 0.003524,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 1,
+    "error_request_count": 3,
+    "total_request_count": 1360,
+    "error_rate": 0.002206,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 2,
+    "error_request_count": 5,
+    "total_request_count": 1079,
+    "error_rate": 0.004634,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 3,
+    "error_request_count": 5,
+    "total_request_count": 1125,
+    "error_rate": 0.004444,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 4,
+    "error_request_count": 3,
+    "total_request_count": 1060,
+    "error_rate": 0.00283,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 5,
+    "error_request_count": 2,
+    "total_request_count": 933,
+    "error_rate": 0.002144,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 6,
+    "error_request_count": 4,
+    "total_request_count": 826,
+    "error_rate": 0.004843,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 7,
+    "error_request_count": 6,
+    "total_request_count": 1558,
+    "error_rate": 0.003851,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 8,
+    "error_request_count": 9,
+    "total_request_count": 2479,
+    "error_rate": 0.00363,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 9,
+    "error_request_count": 8,
+    "total_request_count": 3337,
+    "error_rate": 0.002397,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 10,
+    "error_request_count": 18,
+    "total_request_count": 3723,
+    "error_rate": 0.004835,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 11,
+    "error_request_count": 67,
+    "total_request_count": 4292,
+    "error_rate": 0.01561,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 12,
+    "error_request_count": 34,
+    "total_request_count": 5108,
+    "error_rate": 0.006656,
+    "distinct_error_hosts": 19
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 13,
+    "error_request_count": 21,
+    "total_request_count": 5128,
+    "error_rate": 0.004095,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 14,
+    "error_request_count": 54,
+    "total_request_count": 4117,
+    "error_rate": 0.013116,
+    "distinct_error_hosts": 21
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 15,
+    "error_request_count": 75,
+    "total_request_count": 4503,
+    "error_rate": 0.016656,
+    "distinct_error_hosts": 15
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 16,
+    "error_request_count": 30,
+    "total_request_count": 4757,
+    "error_rate": 0.006306,
+    "distinct_error_hosts": 18
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 17,
+    "error_request_count": 29,
+    "total_request_count": 3415,
+    "error_rate": 0.008492,
+    "distinct_error_hosts": 16
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 18,
+    "error_request_count": 10,
+    "total_request_count": 2202,
+    "error_rate": 0.004541,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 19,
+    "error_request_count": 10,
+    "total_request_count": 2070,
+    "error_rate": 0.004831,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 20,
+    "error_request_count": 17,
+    "total_request_count": 2280,
+    "error_rate": 0.007456,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 21,
+    "error_request_count": 19,
+    "total_request_count": 2060,
+    "error_rate": 0.009223,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 22,
+    "error_request_count": 21,
+    "total_request_count": 2203,
+    "error_rate": 0.009532,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-25",
+    "log_hour": 23,
+    "error_request_count": 13,
+    "total_request_count": 1665,
+    "error_rate": 0.007808,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 0,
+    "error_request_count": 5,
+    "total_request_count": 1195,
+    "error_rate": 0.004184,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 1,
+    "error_request_count": 10,
+    "total_request_count": 1359,
+    "error_rate": 0.007358,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 2,
+    "error_request_count": 8,
+    "total_request_count": 1300,
+    "error_rate": 0.006154,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 3,
+    "error_request_count": 1,
+    "total_request_count": 1063,
+    "error_rate": 0.000941,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 4,
+    "error_request_count": 15,
+    "total_request_count": 1045,
+    "error_rate": 0.014354,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 5,
+    "error_request_count": 3,
+    "total_request_count": 706,
+    "error_rate": 0.004249,
+    "distinct_error_hosts": 1
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 6,
+    "error_request_count": 5,
+    "total_request_count": 1023,
+    "error_rate": 0.004888,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 7,
+    "error_request_count": 5,
+    "total_request_count": 1626,
+    "error_rate": 0.003075,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 8,
+    "error_request_count": 19,
+    "total_request_count": 3060,
+    "error_rate": 0.006209,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 9,
+    "error_request_count": 6,
+    "total_request_count": 2275,
+    "error_rate": 0.002637,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 10,
+    "error_request_count": 8,
+    "total_request_count": 2144,
+    "error_rate": 0.003731,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 11,
+    "error_request_count": 31,
+    "total_request_count": 3464,
+    "error_rate": 0.008949,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 12,
+    "error_request_count": 20,
+    "total_request_count": 4342,
+    "error_rate": 0.004606,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 13,
+    "error_request_count": 16,
+    "total_request_count": 4662,
+    "error_rate": 0.003432,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 14,
+    "error_request_count": 29,
+    "total_request_count": 4511,
+    "error_rate": 0.006429,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 15,
+    "error_request_count": 14,
+    "total_request_count": 4257,
+    "error_rate": 0.003289,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 16,
+    "error_request_count": 21,
+    "total_request_count": 3501,
+    "error_rate": 0.005998,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 17,
+    "error_request_count": 29,
+    "total_request_count": 3210,
+    "error_rate": 0.009034,
+    "distinct_error_hosts": 14
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 18,
+    "error_request_count": 43,
+    "total_request_count": 3047,
+    "error_rate": 0.014112,
+    "distinct_error_hosts": 10
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 19,
+    "error_request_count": 20,
+    "total_request_count": 2279,
+    "error_rate": 0.008776,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 20,
+    "error_request_count": 10,
+    "total_request_count": 2091,
+    "error_rate": 0.004782,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 21,
+    "error_request_count": 7,
+    "total_request_count": 2215,
+    "error_rate": 0.00316,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 22,
+    "error_request_count": 10,
+    "total_request_count": 2244,
+    "error_rate": 0.004456,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-26",
+    "log_hour": 23,
+    "error_request_count": 5,
+    "total_request_count": 2230,
+    "error_rate": 0.002242,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 0,
+    "error_request_count": 19,
+    "total_request_count": 2167,
+    "error_rate": 0.008768,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 1,
+    "error_request_count": 6,
+    "total_request_count": 1542,
+    "error_rate": 0.003891,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 2,
+    "error_request_count": 14,
+    "total_request_count": 1165,
+    "error_rate": 0.012017,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 3,
+    "error_request_count": 5,
+    "total_request_count": 1206,
+    "error_rate": 0.004146,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 4,
+    "error_request_count": 11,
+    "total_request_count": 1200,
+    "error_rate": 0.009167,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 5,
+    "error_request_count": 6,
+    "total_request_count": 1080,
+    "error_rate": 0.005556,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 6,
+    "error_request_count": 3,
+    "total_request_count": 1291,
+    "error_rate": 0.002324,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 7,
+    "error_request_count": 15,
+    "total_request_count": 1844,
+    "error_rate": 0.008134,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 8,
+    "error_request_count": 6,
+    "total_request_count": 2625,
+    "error_rate": 0.002286,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 9,
+    "error_request_count": 35,
+    "total_request_count": 2988,
+    "error_rate": 0.011714,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 10,
+    "error_request_count": 6,
+    "total_request_count": 3358,
+    "error_rate": 0.001787,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 11,
+    "error_request_count": 35,
+    "total_request_count": 4101,
+    "error_rate": 0.008535,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 12,
+    "error_request_count": 13,
+    "total_request_count": 4233,
+    "error_rate": 0.003071,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 13,
+    "error_request_count": 14,
+    "total_request_count": 4491,
+    "error_rate": 0.003117,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 14,
+    "error_request_count": 22,
+    "total_request_count": 4857,
+    "error_rate": 0.00453,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 15,
+    "error_request_count": 24,
+    "total_request_count": 4390,
+    "error_rate": 0.005467,
+    "distinct_error_hosts": 13
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 16,
+    "error_request_count": 13,
+    "total_request_count": 3884,
+    "error_rate": 0.003347,
+    "distinct_error_hosts": 11
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 17,
+    "error_request_count": 26,
+    "total_request_count": 3405,
+    "error_rate": 0.007636,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 18,
+    "error_request_count": 17,
+    "total_request_count": 2542,
+    "error_rate": 0.006688,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 19,
+    "error_request_count": 14,
+    "total_request_count": 1950,
+    "error_rate": 0.007179,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 20,
+    "error_request_count": 2,
+    "total_request_count": 2067,
+    "error_rate": 0.000968,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 21,
+    "error_request_count": 14,
+    "total_request_count": 2109,
+    "error_rate": 0.006638,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 22,
+    "error_request_count": 10,
+    "total_request_count": 1719,
+    "error_rate": 0.005817,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-27",
+    "log_hour": 23,
+    "error_request_count": 11,
+    "total_request_count": 1466,
+    "error_rate": 0.007503,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 0,
+    "error_request_count": 7,
+    "total_request_count": 1538,
+    "error_rate": 0.004551,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 1,
+    "error_request_count": 4,
+    "total_request_count": 1086,
+    "error_rate": 0.003683,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 2,
+    "error_request_count": 11,
+    "total_request_count": 979,
+    "error_rate": 0.011236,
+    "distinct_error_hosts": 6
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 3,
+    "error_request_count": 6,
+    "total_request_count": 1202,
+    "error_rate": 0.004992,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 4,
+    "error_request_count": 5,
+    "total_request_count": 879,
+    "error_rate": 0.005688,
+    "distinct_error_hosts": 3
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 5,
+    "error_request_count": 2,
+    "total_request_count": 916,
+    "error_rate": 0.002183,
+    "distinct_error_hosts": 2
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 6,
+    "error_request_count": 0,
+    "total_request_count": 1086,
+    "error_rate": 0,
+    "distinct_error_hosts": 0
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 7,
+    "error_request_count": 4,
+    "total_request_count": 1616,
+    "error_rate": 0.002475,
+    "distinct_error_hosts": 4
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 8,
+    "error_request_count": 10,
+    "total_request_count": 2543,
+    "error_rate": 0.003932,
+    "distinct_error_hosts": 7
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 9,
+    "error_request_count": 12,
+    "total_request_count": 2741,
+    "error_rate": 0.004378,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 10,
+    "error_request_count": 9,
+    "total_request_count": 3555,
+    "error_rate": 0.002532,
+    "distinct_error_hosts": 8
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 11,
+    "error_request_count": 13,
+    "total_request_count": 3570,
+    "error_rate": 0.003641,
+    "distinct_error_hosts": 9
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 12,
+    "error_request_count": 9,
+    "total_request_count": 3505,
+    "error_rate": 0.002568,
+    "distinct_error_hosts": 5
+  },
+  {
+    "log_date": "1995-07-28",
+    "log_hour": 13,
+    "error_request_count": 2,
+    "total_request_count": 1905,
+    "error_rate": 0.00105,
+    "distinct_error_hosts": 1
+  }
+]

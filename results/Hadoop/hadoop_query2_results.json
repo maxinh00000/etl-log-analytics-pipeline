@@ -1,0 +1,482 @@
+[
+  {
+    "resource_path": "/images/NASA-logosmall.gif",
+    "request_count": 30478,
+    "total_bytes": 20786556,
+    "distinct_host_count": 20340
+  },
+  {
+    "resource_path": "/images/KSC-logosmall.gif",
+    "request_count": 26256,
+    "total_bytes": 27972532,
+    "distinct_host_count": 19072
+  },
+  {
+    "resource_path": "/shuttle/countdown/count.gif",
+    "request_count": 19150,
+    "total_bytes": 718402478,
+    "distinct_host_count": 13564
+  },
+  {
+    "resource_path": "/shuttle/countdown/",
+    "request_count": 18832,
+    "total_bytes": 69156564,
+    "distinct_host_count": 13806
+  },
+  {
+    "resource_path": "/images/MOSAIC-logosmall.gif",
+    "request_count": 13043,
+    "total_bytes": 4217334,
+    "distinct_host_count": 8569
+  },
+  {
+    "resource_path": "/images/ksclogo-medium.gif",
+    "request_count": 12985,
+    "total_bytes": 68849242,
+    "distinct_host_count": 8259
+  },
+  {
+    "resource_path": "/images/USA-logosmall.gif",
+    "request_count": 12974,
+    "total_bytes": 2709486,
+    "distinct_host_count": 8476
+  },
+  {
+    "resource_path": "/images/WORLD-logosmall.gif",
+    "request_count": 12764,
+    "total_bytes": 7625931,
+    "distinct_host_count": 8393
+  },
+  {
+    "resource_path": "/shuttle/missions/sts-71/images/images.html",
+    "request_count": 10492,
+    "total_bytes": 75271240,
+    "distinct_host_count": 7773
+  },
+  {
+    "resource_path": "/shuttle/missions/sts-71/sts-71-patch-small.gif",
+    "request_count": 10185,
+    "total_bytes": 112114254,
+    "distinct_host_count": 6696
+  },
+  {
+    "resource_path": "/images/launch-logo.gif",
+    "request_count": 10116,
+    "total_bytes": 15781869,
+    "distinct_host_count": 7713
+  },
+  {
+    "resource_path": "/ksc.html",
+    "request_count": 8888,
+    "total_bytes": 60027109,
+    "distinct_host_count": 5118
+  },
+  {
+    "resource_path": "/shuttle/missions/sts-71/mission-sts-71.html",
+    "request_count": 8828,
+    "total_bytes": 104715519,
+    "distinct_host_count": 6208
+  },
+  {
+    "resource_path": "/images/ksclogosmall.gif",
+    "request_count": 8706,
+    "total_bytes": 28890980,
+    "distinct_host_count": 6354
+  },
+  {
+    "resource_path": "/",
+    "request_count": 7437,
+    "total_bytes": 48826478,
+    "distinct_host_count": 5007
+  },
+  {
+    "resource_path": "/shuttle/countdown/liftoff.html",
+    "request_count": 6464,
+    "total_bytes": 25096816,
+    "distinct_host_count": 4125
+  },
+  {
+    "resource_path": "/shuttle/missions/missions.html",
+    "request_count": 6293,
+    "total_bytes": 51202977,
+    "distinct_host_count": 4513
+  },
+  {
+    "resource_path": "/images/launchmedium.gif",
+    "request_count": 5151,
+    "total_bytes": 56823282,
+    "distinct_host_count": 3893
+  },
+  {
+    "resource_path": "/shuttle/countdown/video/livevideo.gif",
+    "request_count": 5068,
+    "total_bytes": 281197488,
+    "distinct_host_count": 2615
+  },
+  {
+    "resource_path": "/history/apollo/images/footprint-logo.gif",
+    "request_count": 4231,
+    "total_bytes": 16238322,
+    "distinct_host_count": 2973
+  },
+  {
+    "resource_path": "/images/NASA-logosmall.gif",
+    "request_count": 34212,
+    "total_bytes": 18657282,
+    "distinct_host_count": 13873
+  },
+  {
+    "resource_path": "/images/KSC-logosmall.gif",
+    "request_count": 20985,
+    "total_bytes": 21208460,
+    "distinct_host_count": 13172
+  },
+  {
+    "resource_path": "/images/MOSAIC-logosmall.gif",
+    "request_count": 14837,
+    "total_bytes": 4778169,
+    "distinct_host_count": 8703
+  },
+  {
+    "resource_path": "/images/USA-logosmall.gif",
+    "request_count": 14708,
+    "total_bytes": 3051594,
+    "distinct_host_count": 8620
+  },
+  {
+    "resource_path": "/images/WORLD-logosmall.gif",
+    "request_count": 14628,
+    "total_bytes": 8683620,
+    "distinct_host_count": 8543
+  },
+  {
+    "resource_path": "/images/ksclogo-medium.gif",
+    "request_count": 14539,
+    "total_bytes": 76580630,
+    "distinct_host_count": 8210
+  },
+  {
+    "resource_path": "/htbin/cdt_main.pl",
+    "request_count": 14079,
+    "total_bytes": 49853495,
+    "distinct_host_count": 3118
+  },
+  {
+    "resource_path": "/ksc.html",
+    "request_count": 10352,
+    "total_bytes": 69828513,
+    "distinct_host_count": 5074
+  },
+  {
+    "resource_path": "/htbin/cdt_clock.pl",
+    "request_count": 9478,
+    "total_bytes": 6927920,
+    "distinct_host_count": 1582
+  },
+  {
+    "resource_path": "/images/launch-logo.gif",
+    "request_count": 9311,
+    "total_bytes": 13880439,
+    "distinct_host_count": 6365
+  },
+  {
+    "resource_path": "/images/ksclogosmall.gif",
+    "request_count": 9210,
+    "total_bytes": 29948765,
+    "distinct_host_count": 6526
+  },
+  {
+    "resource_path": "/shuttle/countdown/",
+    "request_count": 9068,
+    "total_bytes": 34171268,
+    "distinct_host_count": 5488
+  },
+  {
+    "resource_path": "/shuttle/countdown/liftoff.html",
+    "request_count": 8779,
+    "total_bytes": 21942075,
+    "distinct_host_count": 3694
+  },
+  {
+    "resource_path": "/shuttle/countdown/images/cdtclock.gif",
+    "request_count": 8655,
+    "total_bytes": 186792960,
+    "distinct_host_count": 2226
+  },
+  {
+    "resource_path": "/",
+    "request_count": 7634,
+    "total_bytes": 49716115,
+    "distinct_host_count": 4824
+  },
+  {
+    "resource_path": "/shuttle/countdown/count70.gif",
+    "request_count": 7339,
+    "total_bytes": 321345892,
+    "distinct_host_count": 4179
+  },
+  {
+    "resource_path": "/history/apollo/images/apollo-logo1.gif",
+    "request_count": 6753,
+    "total_bytes": 7196355,
+    "distinct_host_count": 4583
+  },
+  {
+    "resource_path": "/shuttle/missions/missions.html",
+    "request_count": 6096,
+    "total_bytes": 49541828,
+    "distinct_host_count": 4108
+  },
+  {
+    "resource_path": "/images/launchmedium.gif",
+    "request_count": 5108,
+    "total_bytes": 55223127,
+    "distinct_host_count": 3616
+  },
+  {
+    "resource_path": "/shuttle/countdown/video/livevideo.gif",
+    "request_count": 5053,
+    "total_bytes": 291220805,
+    "distinct_host_count": 1905
+  },
+  {
+    "resource_path": "/images/NASA-logosmall.gif",
+    "request_count": 26444,
+    "total_bytes": 17519154,
+    "distinct_host_count": 14834
+  },
+  {
+    "resource_path": "/images/KSC-logosmall.gif",
+    "request_count": 24442,
+    "total_bytes": 25067280,
+    "distinct_host_count": 14196
+  },
+  {
+    "resource_path": "/images/MOSAIC-logosmall.gif",
+    "request_count": 17277,
+    "total_bytes": 5524497,
+    "distinct_host_count": 9918
+  },
+  {
+    "resource_path": "/images/USA-logosmall.gif",
+    "request_count": 17127,
+    "total_bytes": 3526614,
+    "distinct_host_count": 9851
+  },
+  {
+    "resource_path": "/images/WORLD-logosmall.gif",
+    "request_count": 17000,
+    "total_bytes": 10034331,
+    "distinct_host_count": 9770
+  },
+  {
+    "resource_path": "/images/ksclogo-medium.gif",
+    "request_count": 16853,
+    "total_bytes": 88312630,
+    "distinct_host_count": 9393
+  },
+  {
+    "resource_path": "/history/apollo/images/apollo-logo1.gif",
+    "request_count": 14401,
+    "total_bytes": 15227886,
+    "distinct_host_count": 7995
+  },
+  {
+    "resource_path": "/images/launch-logo.gif",
+    "request_count": 12725,
+    "total_bytes": 19242129,
+    "distinct_host_count": 7019
+  },
+  {
+    "resource_path": "/ksc.html",
+    "request_count": 11493,
+    "total_bytes": 77113149,
+    "distinct_host_count": 5498
+  },
+  {
+    "resource_path": "/",
+    "request_count": 9445,
+    "total_bytes": 59675496,
+    "distinct_host_count": 5851
+  },
+  {
+    "resource_path": "/shuttle/countdown/count70.gif",
+    "request_count": 8921,
+    "total_bytes": 378280472,
+    "distinct_host_count": 5453
+  },
+  {
+    "resource_path": "/images/ksclogosmall.gif",
+    "request_count": 8556,
+    "total_bytes": 27953150,
+    "distinct_host_count": 6270
+  },
+  {
+    "resource_path": "/shuttle/countdown/",
+    "request_count": 8079,
+    "total_bytes": 31040143,
+    "distinct_host_count": 4988
+  },
+  {
+    "resource_path": "/shuttle/missions/sts-70/sts-70-patch-small.gif",
+    "request_count": 7581,
+    "total_bytes": 35862064,
+    "distinct_host_count": 4595
+  },
+  {
+    "resource_path": "/shuttle/missions/missions.html",
+    "request_count": 6714,
+    "total_bytes": 53951126,
+    "distinct_host_count": 4626
+  },
+  {
+    "resource_path": "/shuttle/missions/sts-70/mission-sts-70.html",
+    "request_count": 6389,
+    "total_bytes": 92324426,
+    "distinct_host_count": 4105
+  },
+  {
+    "resource_path": "/images/launchmedium.gif",
+    "request_count": 5683,
+    "total_bytes": 62500869,
+    "distinct_host_count": 4091
+  },
+  {
+    "resource_path": "/icons/menu.xbm",
+    "request_count": 4799,
+    "total_bytes": 2309314,
+    "distinct_host_count": 3366
+  },
+  {
+    "resource_path": "/icons/blank.xbm",
+    "request_count": 4768,
+    "total_bytes": 2207533,
+    "distinct_host_count": 3366
+  },
+  {
+    "resource_path": "/shuttle/countdown/liftoff.html",
+    "request_count": 4749,
+    "total_bytes": 17458992,
+    "distinct_host_count": 3102
+  },
+  {
+    "resource_path": "/images/NASA-logosmall.gif",
+    "request_count": 20254,
+    "total_bytes": 13653606,
+    "distinct_host_count": 11533
+  },
+  {
+    "resource_path": "/images/KSC-logosmall.gif",
+    "request_count": 17956,
+    "total_bytes": 18356184,
+    "distinct_host_count": 11914
+  },
+  {
+    "resource_path": "/images/MOSAIC-logosmall.gif",
+    "request_count": 15311,
+    "total_bytes": 4879809,
+    "distinct_host_count": 8939
+  },
+  {
+    "resource_path": "/images/USA-logosmall.gif",
+    "request_count": 15205,
+    "total_bytes": 3121326,
+    "distinct_host_count": 8881
+  },
+  {
+    "resource_path": "/images/WORLD-logosmall.gif",
+    "request_count": 15097,
+    "total_bytes": 8892348,
+    "distinct_host_count": 8786
+  },
+  {
+    "resource_path": "/images/ksclogo-medium.gif",
+    "request_count": 14425,
+    "total_bytes": 75442626,
+    "distinct_host_count": 8132
+  },
+  {
+    "resource_path": "/history/apollo/images/apollo-logo1.gif",
+    "request_count": 9918,
+    "total_bytes": 10259058,
+    "distinct_host_count": 6548
+  },
+  {
+    "resource_path": "/ksc.html",
+    "request_count": 9498,
+    "total_bytes": 64576307,
+    "distinct_host_count": 4621
+  },
+  {
+    "resource_path": "/images/launch-logo.gif",
+    "request_count": 8719,
+    "total_bytes": 12984540,
+    "distinct_host_count": 5756
+  },
+  {
+    "resource_path": "/",
+    "request_count": 8394,
+    "total_bytes": 54221420,
+    "distinct_host_count": 5299
+  },
+  {
+    "resource_path": "/images/ksclogosmall.gif",
+    "request_count": 7113,
+    "total_bytes": 23761995,
+    "distinct_host_count": 5279
+  },
+  {
+    "resource_path": "/shuttle/missions/missions.html",
+    "request_count": 5762,
+    "total_bytes": 46060189,
+    "distinct_host_count": 3894
+  },
+  {
+    "resource_path": "/images/launchmedium.gif",
+    "request_count": 4870,
+    "total_bytes": 54346005,
+    "distinct_host_count": 3412
+  },
+  {
+    "resource_path": "/shuttle/countdown/count70.gif",
+    "request_count": 4697,
+    "total_bytes": 201244361,
+    "distinct_host_count": 3456
+  },
+  {
+    "resource_path": "/shuttle/missions/sts-70/sts-70-patch-small.gif",
+    "request_count": 4380,
+    "total_bytes": 24587514,
+    "distinct_host_count": 2782
+  },
+  {
+    "resource_path": "/shuttle/countdown/",
+    "request_count": 4300,
+    "total_bytes": 17010616,
+    "distinct_host_count": 3181
+  },
+  {
+    "resource_path": "/icons/menu.xbm",
+    "request_count": 3872,
+    "total_bytes": 1890876,
+    "distinct_host_count": 2743
+  },
+  {
+    "resource_path": "/icons/blank.xbm",
+    "request_count": 3836,
+    "total_bytes": 1806441,
+    "distinct_host_count": 2748
+  },
+  {
+    "resource_path": "/history/apollo/images/footprint-logo.gif",
+    "request_count": 3370,
+    "total_bytes": 13047900,
+    "distinct_host_count": 2498
+  },
+  {
+    "resource_path": "/htbin/cdt_main.pl",
+    "request_count": 3340,
+    "total_bytes": 12310132,
+    "distinct_host_count": 1042
+  }
+]
