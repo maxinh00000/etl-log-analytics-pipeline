@@ -4,10 +4,38 @@ __pycache__/
 .env
 data/raw/*
 *.gz
-.env
 node_modules/
 *.out
 metastore_db/
 hive_warehouse/
 nasa_etl_data/
 NASA_access_log_*
+*.pyc
+pig_output/
+tmp/
+logs/
+*.class
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+
+# Pig logs
+pig_*.log
+
+# Runtime outputs
+pig_output/
+results/
+nasa_results/
+
+# Hadoop
+metastore_db/
+derby.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

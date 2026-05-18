@@ -1,104 +1,323 @@
 # ETL Log Analytics Pipeline
 
-An Extract, Transform, and Load (ETL) pipeline designed to process, analyze, and query large-scale web server access logs (specifically NASA HTTP logs). This project was built for **DAS 839 – NoSQL Systems** to demonstrate and compare log analytics workflows across two distinct NoSQL paradigms: **Apache Hive (Hadoop Ecosystem)** and **MongoDB (Document Store)**.
+## Multi-Pipeline ETL & Reporting Framework for NASA Web Server Logs
 
-## Architecture Overview
+This project implements a unified ETL and analytics framework using multiple NoSQL and Hadoop ecosystem technologies to process NASA HTTP web server logs.
 
-The pipeline processes raw HTTP logs in the Common Log Format (CLF), parses them using a custom Python regex-based parser, and executes analytical queries to extract operational insights. The project implements two separate pipelines:
+The same analytical queries are implemented across:
 
-1. **MongoDB Pipeline**: 
-   - A Python-driven pipeline that parses raw logs and ingests them directly into MongoDB as JSON documents.
-   - Utilizes MongoDB's powerful Aggregation Framework to run analytical queries.
-   - Results are stored in dedicated output collections (`query1_results`, `query2_results`, `query3_results`).
+* MongoDB
+* Apache Pig
+* Hadoop Streaming MapReduce
+* Apache Hive
 
-2. **Hive Pipeline (Batch Processing)**:
-   - A distributed batch processing pipeline where raw logs reside on HDFS.
-   - Uses HiveQL to extract data into `parsed_logs` (stored as ORC format with Snappy compression).
-   - Executes complex ETL staging queries partitioned by batch IDs.
-   - Employs a Python loader (`load_to_pg.py`) to transfer the aggregated Hive TSV outputs into a highly structured **PostgreSQL** database for downstream reporting.
+All query outputs are integrated into PostgreSQL for centralized reporting and runtime analysis.
 
-## Repository Structure
+---
 
-```text
+# Project Objectives
+
+* Parse raw NASA web server logs in Common Log Format (CLF)
+* Perform ETL using multiple big-data technologies
+* Execute identical analytical queries across all pipelines
+* Support scalable batch processing
+* Store results in PostgreSQL
+* Generate unified runtime and analytics reports
+* Compare different NoSQL and Hadoop processing models
+
+---
+
+# Dataset
+
+NASA Kennedy Space Center HTTP Access Logs
+
+| Dataset  | Records   | Size   |
+| -------- | --------- | ------ |
+| Jul95    | 1,891,714 | 196 MB |
+| Aug95    | 1,569,898 | 161 MB |
+| Combined | 3,461,612 | 357 MB |
+
+Example log entry:
+
+```text id="ozpwby"
+199.72.81.55 - - [01/Jul/1995:00:00:01 -0400] "GET /history/apollo/ HTTP/1.0" 200 6245
+```
+
+---
+
+# Project Architecture
+
+```text id="0gtcnz"
+Raw NASA Logs
+    ↓
+Batch Splitting
+    ↓
+Pipeline Processing
+(MongoDB / Pig / MapReduce / Hive)
+    ↓
+Analytical Queries
+    ↓
+PostgreSQL Integration
+    ↓
+Reporting Framework
+```
+
+---
+
+# Directory Structure
+
+```text id="d5ezgt"
 etl-log-analytics-pipeline/
-├── data/                       # Directory for raw log files and sample data
-│   └── sample/                 # Small sample logs for testing
-├── parser/
-│   └── parser.py               # Core Python regex parser for NASA logs
+│
+├── batching/                  # Batch splitting utilities
+├── data/                      # Raw NASA log datasets
+├── parser/                    # Shared regex parser
 ├── pipelines/
-│   ├── hive/                   # Hive/Hadoop ETL Pipeline
-│   │   ├── hive_logic/         # HQL scripts for table creation and batch processing
-│   │   ├── scripts/            # Python/Shell orchestration & PostgreSQL loaders
-│   │   └── sql/                # PostgreSQL schema definitions
-│   └── mongodb/                # MongoDB NoSQL Pipeline
-│       ├── load_data.py        # Log ingestion script into MongoDB
-│       ├── query1.py           # Daily Traffic Summary aggregation
-│       ├── query2.py           # Top 20 Requested Resources aggregation
-│       └── query3.py           # Hourly Error Analysis aggregation
-├── results/                    # Directory for generated CSV/TSV reports
-├── requirements.txt            # Python dependencies
-└── readme.md                   # Project documentation
+│   ├── mongodb/               # MongoDB pipeline
+│   ├── pig/                   # Apache Pig pipeline
+│   ├── mapreduce/             # Hadoop Streaming MapReduce
+│   └── hive/                  # Apache Hive pipeline
+│
+├── reporting/                 # PostgreSQL loaders + reporting
+├── results/                   # Generated outputs
+├── pig_output/                # Pig HDFS/local outputs
+│
+├── main.py                    # Unified pipeline runner
+├── load_pig_results.py        # Pig PostgreSQL loader
+├── load_mapreduce_results.py  # MapReduce PostgreSQL loader
+├── requirements.txt
+└── README.md
 ```
 
-## Key Analytics Queries
+---
 
-Both pipelines are built to compute three primary analytical reports:
+# Pipelines
 
-1. **Query 1: Daily Traffic Summary**
-   - *Goal*: Compute the total request count and total bytes transferred grouped by day and HTTP status code.
-2. **Query 2: Top 20 Requested Resources**
-   - *Goal*: Rank the most frequently accessed endpoints (paths) by request count. Computes request counts, total bytes, and the number of distinct hosts accessing each path.
-3. **Query 3: Hourly Error Analysis**
-   - *Goal*: Analyze server errors (status 400-599) grouped by day and hour. Calculates error requests, total requests, error rates, and the distinct number of hosts experiencing errors.
+## 1. MongoDB Pipeline
 
-## Setup & Execution
+### Features
 
-### Prerequisites
-- Python 3.x
-- MongoDB (Running locally on port 27017)
-- Hadoop/Hive (For the Hive pipeline)
-- PostgreSQL (Running locally for Hive reporting)
+* Document-oriented ETL
+* Aggregation pipelines
+* Batch insertion
+* Shared Python parser
+* PostgreSQL integration
 
-### Install Dependencies
+### Workflow
 
-```bash
-pip install -r requirements.txt
-# Ensure pymongo and psycopg2-binary are installed
+```text id="quaj1j"
+Raw Logs
+→ Python Parser
+→ MongoDB
+→ Aggregation Queries
+→ PostgreSQL
 ```
 
-### Running the MongoDB Pipeline
+---
 
-1. **Load Data**:
-   Ensure your raw log data path is correctly set in `pipelines/mongodb/load_data.py`, then run:
-   ```bash
-   python pipelines/mongodb/load_data.py
-   ```
-2. **Execute Queries**:
-   Run the aggregation pipelines individually. Results will be saved to their respective MongoDB collections.
-   ```bash
-   python pipelines/mongodb/query1.py
-   python pipelines/mongodb/query2.py
-   python pipelines/mongodb/query3.py
-   ```
+## 2. Apache Pig Pipeline
 
-### Running the Hive Pipeline
+### Features
 
-1. **Initialize PostgreSQL Schema**:
-   Set up the target reporting tables using the provided schema.
-   ```bash
-   psql -d nasa_etl -f pipelines/hive/sql/schema_pg.sql
-   ```
-2. **Execute Hive Scripts**:
-   The Hive pipeline requires passing variables (like `batch_id` and paths) to `process_batch.hql`. You can use the provided bash orchestration scripts in `pipelines/hive/scripts/` to automate the workflow.
-3. **Load Results & Generate Reports**:
-   Once Hive exports the data, load it into PostgreSQL and generate a CLI report:
-   ```bash
-   python pipelines/hive/scripts/load_to_pg.py --run-id <run_identifier> --batch-id <id> ...
-   python pipelines/hive/scripts/report.py --run-id <run_identifier>
-   ```
+* Pig Latin ETL
+* Hadoop local MapReduce mode
+* HDFS integration
+* Query-wise analytical processing
 
-## Technologies Used
-- **Python**: Core scripting, Regex, PyMongo, Psycopg2
-- **MongoDB**: Document Database, Aggregation Pipeline
-- **Apache Hive / HDFS**: Distributed Batch Processing, ORC Storage
-- **PostgreSQL**: Relational Reporting Database
+### Workflow
+
+```text id="it9qvn"
+Raw Logs
+→ HDFS
+→ Pig Scripts
+→ HDFS Outputs
+→ PostgreSQL
+```
+
+---
+
+## 3. Hadoop Streaming MapReduce Pipeline
+
+### Features
+
+* Custom Python mappers/reducers
+* Hadoop Streaming
+* TSV outputs
+* Batch analytics
+
+### Workflow
+
+```text id="8b59gg"
+Raw Logs
+→ Mapper
+→ Hadoop Streaming
+→ Reducer
+→ TSV Outputs
+→ PostgreSQL
+```
+
+---
+
+## 4. Apache Hive Pipeline
+
+### Features
+
+* HiveQL analytics
+* ORC + Snappy storage
+* SQL-on-Hadoop ETL
+* Partitioned tables
+
+### Workflow
+
+```text id="3r8kg8"
+Raw Logs
+→ Hive External Tables
+→ HiveQL Processing
+→ ORC Tables
+→ PostgreSQL
+```
+
+---
+
+# Analytical Queries
+
+## Query 1 — Daily Traffic Summary
+
+Metrics:
+
+* request count
+* total bytes
+* status code distribution
+
+---
+
+## Query 2 — Top Requested Resources
+
+Metrics:
+
+* most accessed resources
+* total bandwidth
+* distinct hosts
+
+---
+
+## Query 3 — Hourly Error Analysis
+
+Metrics:
+
+* hourly error rates
+* total requests
+* distinct error hosts
+
+---
+
+# Technology Stack
+
+| Component             | Technology        |
+| --------------------- | ----------------- |
+| Programming Language  | Python 3          |
+| Database              | PostgreSQL 14     |
+| NoSQL Store           | MongoDB 6.x       |
+| Distributed Framework | Hadoop 3.3.6      |
+| SQL Engine            | Apache Hive 3.1.3 |
+| ETL Engine            | Apache Pig        |
+| Reporting             | psycopg2          |
+| Runtime               | Java 8            |
+
+---
+
+# PostgreSQL Reporting Layer
+
+All pipelines store outputs into centralized PostgreSQL tables:
+
+* run_metadata
+* batch_metadata
+* q1_daily_traffic
+* q2_top_resources
+* q3_hourly_errors
+
+This enables:
+
+* cross-pipeline comparison
+* unified reporting
+* runtime benchmarking
+
+---
+
+# Running Pipelines
+
+## MongoDB
+
+```powershell id="mw4r98"
+python main.py --pipeline mongodb --query all --batch-size 500000
+```
+
+---
+
+## MapReduce
+
+```bash id="i6i7w2"
+python3 main.py --pipeline mapreduce --query all --batch-size 500000 --data-dir data/raw
+```
+
+---
+
+## Pig
+
+```bash id="5o6b9n"
+pig -param INPUT=/user/trivedh/data/raw/NASA_access_log_Aug95/access_log_Aug95 -param OUTPUT=/user/trivedh/pig_output/query1 pipelines/pig/query1.pig
+```
+
+---
+
+# Generating Reports
+
+```powershell id="7t8g8n"
+python reporting/report.py --run-id <RUN_ID>
+```
+
+---
+
+# Key Features
+
+* Multi-pipeline ETL framework
+* Shared analytical query logic
+* Batch-wise processing
+* PostgreSQL reporting
+* Runtime metadata collection
+* HDFS integration
+* NoSQL + Hadoop ecosystem support
+
+---
+
+# Challenges Faced
+
+* PostgreSQL cross-environment connectivity
+* HDFS NameNode failures
+* Pig HDFS path management
+* MongoDB schema mismatches
+* Batch metadata synchronization
+* Hadoop Streaming subprocess issues
+* Hive environment setup complexity
+
+---
+
+# Current Project Status
+
+| Component            | Status      |
+| -------------------- | ----------- |
+| MongoDB Pipeline     | Completed   |
+| Pig Pipeline         | Completed   |
+| MapReduce Pipeline   | Completed   |
+| Hive Scripts         | Implemented |
+| PostgreSQL Reporting | Completed   |
+| Runtime Metadata     | Completed   |
+| Batch Processing     | Completed   |
+
+---
+
+# Conclusion
+
+This project demonstrates a scalable multi-pipeline ETL and reporting framework for large-scale web log analytics using multiple NoSQL and Hadoop ecosystem technologies.
+
+The implementation highlights the strengths, trade-offs, and execution models of MongoDB, Pig, MapReduce, and Hive for semi-structured analytical workloads.
