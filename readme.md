@@ -302,20 +302,6 @@ python reporting/report.py --run-id <RUN_ID>
 
 ---
 
-# Current Project Status
-
-| Component            | Status      |
-| -------------------- | ----------- |
-| MongoDB Pipeline     | Completed   |
-| Pig Pipeline         | Completed   |
-| MapReduce Pipeline   | Completed   |
-| Hive Scripts         | Implemented |
-| PostgreSQL Reporting | Completed   |
-| Runtime Metadata     | Completed   |
-| Batch Processing     | Completed   |
-
----
-
 # Conclusion
 
 This project demonstrates a scalable multi-pipeline ETL and reporting framework for large-scale web log analytics using multiple NoSQL and Hadoop ecosystem technologies.
